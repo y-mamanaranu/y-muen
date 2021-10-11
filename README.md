@@ -1,4 +1,5 @@
-# Favorites
+# [Yoiduki](https://y-muen.github.io/y-muen/)
+## Favorites
 - 観葉植物
 - 自転車
 - 料理
@@ -8,11 +9,9 @@
 - 投資
 - グラブル
 
-# Links
-## Genearal
+## Links
 - [Gravatar](https://ja.gravatar.com/ymuen)
 - [GitHub](https://github.com/y-muen)
-  - [このページ](https://y-muen.github.io/y-muen/)
 - [PostPrime](https://postprime.com/y_muen): 投資と政治
   - [TradingView](https://jp.tradingview.com/u/y-muen): 投資のチャート周り
 - [Twitter](https://twitter.com/y_muen): グラブルと少しの政治
