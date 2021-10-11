@@ -1,5 +1,4 @@
-# [Yoiduki](https://y-muen.github.io/y-muen/)
-## Favorites
+# Favorites
 - 観葉植物
 - 自転車
 - 料理
@@ -9,7 +8,7 @@
 - 投資
 - グラブル
 
-## Links
+# Links
 - [Gravatar](https://ja.gravatar.com/ymuen): アイコン
 - [GitHub](https://github.com/y-muen): 投資となろう
   - [gist](https://gist.github.com/y-muen): Tampermonkeyのスクリプト達
