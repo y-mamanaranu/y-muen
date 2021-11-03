@@ -8,6 +8,9 @@
 - 投資
 - グラブル
 
+# Index
+- [Plants](doc/plants.md)
+
 # Links
 - [Gravatar](https://ja.gravatar.com/ymuen): アイコン
 - [GitHub](https://github.com/y-muen): 投資となろう
