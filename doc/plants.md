@@ -30,4 +30,5 @@
 * ガーデンマート: テラコッタの植木鉢のサイズが豊富
 	* [Yahoo!店](https://shopping.geocities.jp/gardenmart/)
 	* [楽天市場店](https://www.rakuten.ne.jp/gold/gmart/)
-
+* ジモティー
+  * [植木鉢@東京](https://jmty.jp/tokyo/sale?keyword=%E6%A4%8D%E6%9C%A8%E9%89%A2)
