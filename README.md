@@ -1,5 +1,5 @@
 # Favorites
-- 観葉植物
+- [植物](doc/plants.md)
 - 自転車
 - 料理
 - 木工
@@ -7,9 +7,6 @@
 - プログラミング
 - 投資
 - グラブル
-
-# Index
-- [Plants](doc/plants.md)
 
 # Links
 - [Gravatar](https://ja.gravatar.com/ymuen): アイコン

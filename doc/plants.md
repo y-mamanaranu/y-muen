@@ -31,3 +31,7 @@
 	* [Yahoo!店](https://shopping.geocities.jp/gardenmart/)
 	* [楽天市場店](https://www.rakuten.ne.jp/gold/gmart/)
 
+## 図鑑
+* [育て方がわかる植物図鑑](https://www.shuminoengei.jp/?a=page_p_top)
+* [PUKUBOOK](https://pukubook.jp/)
+* [多肉植物図鑑](http://cactoloco.jp/dic/index.html)
