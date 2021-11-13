@@ -3,10 +3,10 @@
 * [オザキフラワーパーク](https://ozaki-flowerpark.co.jp/): 色々ある実店舗
 	* [楽天市場店](https://www.rakuten.co.jp/ozaki-flowerpark/)
 * [園芸ネット](https://www.engei.net/): 定番から珍しいものまで揃ってる最強オンラインショップ
-  *  [珍しい植物](https://www.engei.net/PathBrowse.asp?Pagename=green:Bizarre) 
-  *  [小さい観葉に合せる鉢](https://www.engei.net/PathBrowse.asp?Pagename=green:pot_goods&o=l) 
-  *  [観葉植物の新商品](https://www.engei.net/NewGoods.asp?path=026) 
-  *  [鉢 プランターの新商品](https://www.engei.net/NewGoods.asp?path=030) 
+	*  [珍しい植物](https://www.engei.net/PathBrowse.asp?Pagename=green:Bizarre) 
+	*  [小さい観葉に合せる鉢](https://www.engei.net/PathBrowse.asp?Pagename=green:pot_goods&o=l) 
+	*  [観葉植物の新商品](https://www.engei.net/NewGoods.asp?path=026) 
+	*  [鉢 プランターの新商品](https://www.engei.net/NewGoods.asp?path=030) 
 * [三浦園芸](http://miuraengei.com/dictionary/index.php): 島忠でよく見るハイドロカルチャー苗の生産者
 	* [Yahoo!店](https://store.shopping.yahoo.co.jp/julli/)
 	* [楽天市場店](https://www.rakuten.co.jp/julli/)
@@ -30,6 +30,8 @@
 * ガーデンマート: テラコッタの植木鉢のサイズが豊富
 	* [Yahoo!店](https://shopping.geocities.jp/gardenmart/)
 	* [楽天市場店](https://www.rakuten.ne.jp/gold/gmart/)
+* ジモティー
+	* [植木鉢@東京](https://jmty.jp/tokyo/sale?keyword=%E6%A4%8D%E6%9C%A8%E9%89%A2)
 
 ## 図鑑
 * [育て方がわかる植物図鑑](https://www.shuminoengei.jp/?a=page_p_top)
