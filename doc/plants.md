@@ -11,6 +11,7 @@
 	* [Yahoo!店](https://store.shopping.yahoo.co.jp/julli/)
 	* [楽天市場店](https://www.rakuten.co.jp/julli/)
 * [東海園芸](http://www.opte.co.jp/items%20list.html): 島忠で見る普通の苗の生産者
+	* [楽天市場店](https://www.rakuten.co.jp/opte/)
 * [SOLSO GREEN MARKET](https://solsogreenmarket.com/)
 * [日野春ハーブガーデン](http://www.hinoharu.com/): ハーブならここ
 
