@@ -2,6 +2,11 @@
 ## 投資
   - [PostPrime](https://postprime.com/y_muen)
   - [TradingView](https://jp.tradingview.com/u/y-muen): 投資のチャート周り
+  - おすすめチャンネル
+    * [高橋ダン YouTube](https://www.youtube.com/c/%E3%83%80%E3%83%B3%E9%AB%98%E6%A9%8BDanTakahashi/videos)
+    * [高橋ダン PostPrime](https://postprime.com/dantakahashi)
+    * [バフェット太郎 YouTube](https://www.youtube.com/c/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E5%A4%AA%E9%83%8E%E3%81%AE%E6%8A%95%E8%B3%87%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/videos)
+    * [エミン・ユルマズ YouTube](https://www.youtube.com/channel/UClDM5GP-nYn5gBvDryZDW9w/videos)
 
   | MACD |  a  |  b  |  c  |
   | ---- | --- | --- | --- |
