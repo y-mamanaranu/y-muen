@@ -1,5 +1,8 @@
 # Favorites
+## [日課](doc/routine.md)
+
 ## 投資
+
   - [PostPrime](https://postprime.com/y_muen)
   - [TradingView](https://jp.tradingview.com/u/y-muen): 投資のチャート周り
 
