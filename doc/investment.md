@@ -4,6 +4,7 @@
   - [TradingView](https://jp.tradingview.com/u/y-muen): 投資のチャート周り
 
 ## MACDパラメーター
+
   | MACD |  a  |  b  |  c  |
   | ---- | --- | --- | --- |
   | 100% | 12  | 26  | 9   |
