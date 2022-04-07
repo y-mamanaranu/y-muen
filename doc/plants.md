@@ -39,10 +39,9 @@
 * [PUKUBOOK](https://pukubook.jp/)
 * [多肉植物図鑑](http://cactoloco.jp/dic/index.html)
 
-<<<<<<< HEAD
 ## ミミズコンポスト
 * [ミミズコンポスト | なかっぴー通信ＮＥＯ](https://pantani21mrt.blog.fc2.com/blog-entry-888.html?sp)
-=======
+
 ## 用語
 
 |  日当たり  |     ルクス      |
@@ -51,4 +50,4 @@
 | 日陰       | 1,500 ~ 10,000  |
 | 暗い日陰   | 200 ~ 1,500     |
 | 暗い       | ~ 200           |
->>>>>>> 81649ee (Update plant.md.)
+
