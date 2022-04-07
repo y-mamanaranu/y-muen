@@ -14,7 +14,7 @@
   * [おすすめの論文 \- Google Scholar](https://scholar.google.com/scholar?sciupd=1)
   * [Bloomberg [JP]](https://www.bloomberg.co.jp/) [[EN]](https://www.bloomberg.com/)
   * [Reuters [JP]](https://jp.reuters.com/) [[EN]](https://www.reuters.com/)
-  * [WSJ](https://jp.wsj.com/)
+  * [The Wall Street Journal [JP]](https://jp.wsj.com/) [[EN]](https://www.wsj.com/)
   * [ITmedia NEWS](https://www.itmedia.co.jp/news/)
   * [Google ニュース](https://news.google.com/)
   * [Yahoo!ニュース](https://news.yahoo.co.jp/)
