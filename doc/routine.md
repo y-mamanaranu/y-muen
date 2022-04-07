@@ -39,7 +39,7 @@
   * [PostPrime](https://postprime.com)
   * [TweetDeck](https://tweetdeck.twitter.com/)
     - [Twitter Developers](https://developer.twitter.com/en/apps/)
-  * [Greensnap](https://greensnap.jp/timeline)
+  * [GreenSnap](https://greensnap.jp/timeline)
   * [Reddit](https://www.reddit.com/)
   * [ホロジュール](https://schedule.hololive.tv/)
   * [Zaim](https://zaim.net/)
