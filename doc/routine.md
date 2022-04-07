@@ -11,8 +11,8 @@
 - 顔を洗ったら、朝食を食べて、歯を磨く
 - 食器を洗って、着替えて
 - ニュース
-  * [Bloomberg](https://www.bloomberg.co.jp/) [EN](https://www.bloomberg.com/)
-  * [Reuters](https://jp.reuters.com/) [EN](https://www.reuters.com/)
+  * [Bloomberg](https://www.bloomberg.co.jp/) [[EN]](https://www.bloomberg.com/)
+  * [Reuters](https://jp.reuters.com/) [[EN]](https://www.reuters.com/)
   * [WSJ](https://jp.wsj.com/)
   * [ITmedia NEWS](https://www.itmedia.co.jp/news/)
   * [Google ニュース](https://news.google.com/)
