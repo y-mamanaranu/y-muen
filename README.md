@@ -1,24 +1,20 @@
+# Routine
+* [日課](doc/routine.md)
+
 # Favorites
-## [日課](doc/routine.md)
-
-## [投資](doc/investment.md)
-
-## [政治](doc/politics.md)
-
-## 料理
-
-## 工作
-  - [y-muen/Himmeli](https://github.com/y-muen/Himmeli): ヒンメリのワイヤークラフトを作るときの設計図を生成するライブラリ
-
-## [植物](doc/plants.md)
+* [投資](doc/investment.md)
+* [政治](doc/politics.md)
+* 料理
+* 工作
+  - [y-muen/himmeli](https://github.com/y-muen/himmeli): ヒンメリのワイヤークラフトを作るときの設計図を生成するライブラリ
+* [植物](doc/plants.md)
   - [GreenSnap](https://greensnap.jp/my/y_muen): 観葉植物
   - [植物関連の地図: 東京](https://www.google.com/maps/d/viewer?mid=1SoIozXh3XpcJSM49HWpzLDzFvf3P8R-1)
-
-## 音楽
+* 音楽
   - [Spotify](https://open.spotify.com/user/3vg7ib8viax9jtt3jhki731cs): プレイリストをシェアするのに便利
     - [ヘビロテ](https://open.spotify.com/playlist/19GjpNq8oX2ttrQHtqHg0C?si=883fd400a62a493b): 作業用のプレイリスト
-
-## グラブル
+* グラブル
+  - [y-muen/remove-tos-tweet](https://github.com/y-muen/remove-tos-tweet): @tosツイートを定期的に削除する
 
 # Links
 - [Gravatar](https://ja.gravatar.com/ymuen): アイコン
