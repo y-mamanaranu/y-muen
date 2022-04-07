@@ -1,5 +1,4 @@
 # Routine
-
 ## Overall
 - 実験結果、調査結果は、スライドにまとめる
 - 定期的に報告書や投稿にまとめる
@@ -35,7 +34,11 @@
 - 12時には、昼食を食べて、歯を磨く
 - 昼寝は、15時までに
 - Brake
+  * [TradingView](https://jp.tradingview.com/chart/)
+  * [PostPrime](https://postprime.com)
+  * [タイムライン](https://greensnap.jp/timeline)
   * [ホロジュール](https://schedule.hololive.tv/)
+  * [Zaim](https://zaim.net/)
 
 ## End of work
 - 紅茶ポットを洗う
