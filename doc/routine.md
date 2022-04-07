@@ -28,15 +28,20 @@
 
 ## Start of work
 - まず、予定を確認
+  * [Todoist](https://todoist.com/app/inbox)
 - 紅茶を入れる
 
 ## Noon
 - 12時には、昼食を食べて、歯を磨く
 - 昼寝は、15時までに
 - Brake
+  * [YouTube](https://www.youtube.com/)
   * [TradingView](https://jp.tradingview.com/chart/)
   * [PostPrime](https://postprime.com)
-  * [タイムライン](https://greensnap.jp/timeline)
+  * [TweetDeck](https://tweetdeck.twitter.com/)
+    - [Twitter Developers](https://developer.twitter.com/en/apps/)
+  * [Greensnap](https://greensnap.jp/timeline)
+  * [Reddit](https://www.reddit.com/)
   * [ホロジュール](https://schedule.hololive.tv/)
   * [Zaim](https://zaim.net/)
 
