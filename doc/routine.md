@@ -10,8 +10,8 @@
 - 顔を洗ったら、朝食を食べて、歯を磨く
 - 食器を洗って、着替えて
 - ニュース
-  * [Google Scholar](https://scholar.google.com/)
-  * [おすすめの論文 \- Google Scholar](https://scholar.google.com/scholar?sciupd=1)
+  * [Google Scholar](https://scholar.google.com/?authuser=1)
+  * [おすすめの論文 - Google Scholar](https://scholar.google.com/scholar?sciupd=1&authuser=1)
   * [Bloomberg [JP]](https://www.bloomberg.co.jp/) [[EN]](https://www.bloomberg.com/)
   * [Reuters [JP]](https://jp.reuters.com/) [[EN]](https://www.reuters.com/)
   * [The Wall Street Journal [JP]](https://jp.wsj.com/) [[EN]](https://www.wsj.com/)
