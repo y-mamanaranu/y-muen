@@ -24,6 +24,14 @@
 - 天気
   * [tenki.jp](https://tenki.jp/)
   * [頭痛ーる](https://zutool.jp/)
+- 朝配信
+  |    | 時刻   | 配信者    |
+  | -- | ----- | -------- |
+  | 月 |  7:00 | [大神ミオ](https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg)   |
+  | 火 |  7:00 | [博衣こより](https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw)  |
+  | 木 |  7:00 | [夜空メル](https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw)   |
+  | 金 |  7:00 | [博衣こより](https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw)  |
+  | 土 | 10:00 | [大空スバル](https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA) |
 
 ## Start of work
 - まず、予定を確認
