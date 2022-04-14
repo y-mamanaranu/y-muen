@@ -3,6 +3,7 @@
 
 # Favorites
 * [投資](doc/investment.md)
+  - [y-muen/assets\-checker](https://github.com/y-muen/assets-checker): 証券口座から資産の情報を持ってくる
 * [政治](doc/politics.md)
 * 料理
 * 工作
