@@ -70,6 +70,26 @@
 - 夕食を食べて、歯を磨く
 - 食器を洗って、風呂に入る
 - 23時までに寝る
+- 投資口座
+  * [SBI証券](https://www.sbisec.co.jp/ETGate)
+  * [マネックス証券](https://www.monex.co.jp/)
+  * [bitFlyer](https://bitflyer.com/ja-jp/ex/Home)
+  * [Coincheck](https://coincheck.com/ja/exchange) 
+  * [DMM Bitcoin](https://bitcoin.dmm.com/)
+  * [GMOクリック証券](https://www.click-sec.com/)
+  * [IG証券](https://www.ig.com/jp)
+    - [マーケット情報](https://www.ig.com/jp/ig-financial-markets)
+  * [SBI FXトレード](https://www.sbifxt.co.jp)
+- 投資情報
+  * [Barchart\.com](https://www.barchart.com/)
+  * [ETF Database](https://etfdb.com/)
+  * [Fintel](https://fintel.io/)
+  * [Investing\.com](https://jp.investing.com/)
+  * [shortinterest\.jp](https://shortinterest.jp/)
+
+## Monthly
+* [Brave Rewards クリエイター](https://publishers.basicattentiontoken.org/publishers/home?locale=ja)
+* [PostPrime クリエーター](https://postprime.com/dashboard)
 
 ## See Also
 * [【UG# 362】2020/10/11 『プラダを着た悪魔』で分かるYouTubeのモーニングルーティンが履修科目である理由 新春映画解説特集 - YouTube](https://www.youtube.com/watch?v=l3nwZ4uUasE)
