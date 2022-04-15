@@ -37,6 +37,8 @@
 ## Start of work
 - まず、予定を確認
   * [Todoist](https://todoist.com/app/inbox)
+- 思いついたことはメモ
+  * [Simplenote](https://app.simplenote.com/)
 - 紅茶を入れる
 
 ## Noon
