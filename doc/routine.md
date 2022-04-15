@@ -35,10 +35,8 @@
   | 土 | 10:00 | [大空スバル](https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA) |
 
 ## Start of work
-- まず、予定を確認
-  * [Todoist](https://todoist.com/app/inbox)
-- 思いついたことはメモ
-  * [Simplenote](https://app.simplenote.com/)
+- [Todoist](https://todoist.com/app/inbox)で予定を確認
+- [Simplenote](https://app.simplenote.com/)に思いついたことをメモ
 - 紅茶を入れる
 
 ## Noon
