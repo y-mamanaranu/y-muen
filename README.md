@@ -5,6 +5,8 @@
 * [投資](doc/investment.md)
   - [y-muen/assets\-checker](https://github.com/y-muen/assets-checker): 証券口座から資産の情報を持ってくる
   - [y\-muen/easy\-robo\-advisors](https://github.com/y-muen/easy-robo-advisors): ポートフォリオのアセットアロケーションのアドバイス
+  - [y\-muen/compare\-securities\-firm](https://github.com/y-muen/compare-securities-firm): 証券会社の取り扱い商品を比較する
+    * [海外ETF](https://y-muen.github.io/compare-securities-firm/doc/foreign-etf.html): 海外ETFの取り扱いを表に列挙
 * [政治](doc/politics.md)
 * 料理
 * 工作
