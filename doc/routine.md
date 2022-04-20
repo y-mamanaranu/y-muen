@@ -20,9 +20,6 @@
   * [ITmedia NEWS](https://www.itmedia.co.jp/news/)
   * [Google ニュース](https://news.google.com/)
   * [Yahoo!ニュース](https://news.yahoo.co.jp/)
-  * [高橋ダン [YouTube]](https://www.youtube.com/c/%E3%83%80%E3%83%B3%E9%AB%98%E6%A9%8BDanTakahashi/videos) [[PostPrime]](https://postprime.com/dantakahashi)
-  * [バフェット太郎 [YouTube]](https://www.youtube.com/c/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E5%A4%AA%E9%83%8E%E3%81%AE%E6%8A%95%E8%B3%87%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/videos)
-  * [エミン・ユルマズ [YouTube]](https://www.youtube.com/channel/UClDM5GP-nYn5gBvDryZDW9w/videos)
 - 天気
   * [tenki.jp](https://tenki.jp/)
   * [頭痛ーる](https://zutool.jp/)
@@ -72,22 +69,7 @@
 - 夕食を食べて、歯を磨く
 - 食器を洗って、風呂に入る
 - 23時までに寝る
-- 投資口座
-  * [SBI証券](https://www.sbisec.co.jp/ETGate)
-  * [マネックス証券](https://www.monex.co.jp/)
-  * [bitFlyer](https://bitflyer.com/ja-jp/ex/Home)
-  * [Coincheck](https://coincheck.com/ja/exchange) 
-  * [DMM Bitcoin](https://bitcoin.dmm.com/)
-  * [GMOクリック証券](https://www.click-sec.com/)
-  * [IG証券](https://www.ig.com/jp)
-    - [マーケット情報](https://www.ig.com/jp/ig-financial-markets)
-  * [SBI FXトレード](https://www.sbifxt.co.jp)
-- 投資情報
-  * [Barchart\.com](https://www.barchart.com/)
-  * [ETF Database](https://etfdb.com/)
-  * [Fintel](https://fintel.io/)
-  * [Investing\.com](https://jp.investing.com/)
-  * [shortinterest\.jp](https://shortinterest.jp/)
+- [投資](./investment.md)
 
 ## Monthly
 * [Brave Rewards クリエイター](https://publishers.basicattentiontoken.org/publishers/home?locale=ja)
