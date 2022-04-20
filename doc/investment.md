@@ -2,6 +2,12 @@
 * [TradingView](https://jp.tradingview.com/chart/)
 * [PostPrime](https://postprime.com)
 
+# Heat Map
+- [世界の株式指数 \- Bloomberg](https://www.bloomberg.co.jp/markets/stocks)
+- [S&P 500 Map](https://finviz.com/map.ashx?t=sec)
+- [Today's Trending Futures Markets \- Barchart\.com](https://www.barchart.com/futures/heat-map)
+- [COIN360](https://coin360.com/)
+
 ## 投資情報
 * [Barchart\.com](https://www.barchart.com/)
 * [ETF Database](https://etfdb.com/)
