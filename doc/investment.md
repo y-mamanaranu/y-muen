@@ -28,10 +28,27 @@
 
 ## ETF
 ### 日本
-- [1306](https://jp.tradingview.com/chart/?symbol=1306): TOPIX
-- [1321](https://jp.tradingview.com/chart/?symbol=1321): NIKKEI225
+- [1306](https://jp.tradingview.com/chart/?symbol=TSE:1306): TOPIX
+- [1321](https://jp.tradingview.com/chart/?symbol=TSE:1321): NIKKEI225
 - [EWJ](https://jp.tradingview.com/chart/?symbol=EWJ)
 - セクター別
+	- [1617](https://jp.tradingview.com/chart/?symbol=TSE:1617): 食品
+	- [1618](https://jp.tradingview.com/chart/?symbol=TSE:1618): エネルギー資源
+	- [1619](https://jp.tradingview.com/chart/?symbol=TSE:1619): 建設・資材
+	- [1620](https://jp.tradingview.com/chart/?symbol=TSE:1620): 素材・化学
+	- [1621](https://jp.tradingview.com/chart/?symbol=TSE:1621): 医薬品
+	- [1622](https://jp.tradingview.com/chart/?symbol=TSE:1622): 自動車・輸送機
+	- [1623](https://jp.tradingview.com/chart/?symbol=TSE:1623): 鉄鋼・非鉄
+	- [1624](https://jp.tradingview.com/chart/?symbol=TSE:1624): 機械
+	- [1625](https://jp.tradingview.com/chart/?symbol=TSE:1625): 電機・精密
+	- [1626](https://jp.tradingview.com/chart/?symbol=TSE:1626): 情報通信・サービスその他
+	- [1627](https://jp.tradingview.com/chart/?symbol=TSE:1627): 電力・ガス
+	- [1628](https://jp.tradingview.com/chart/?symbol=TSE:1628): 運輸・物流
+	- [1629](https://jp.tradingview.com/chart/?symbol=TSE:1629): 商社・卸売
+	- [1630](https://jp.tradingview.com/chart/?symbol=TSE:1630): 小売
+	- [1631](https://jp.tradingview.com/chart/?symbol=TSE:1631): 銀行
+	- [1632](https://jp.tradingview.com/chart/?symbol=TSE:1632): 金融（除く銀行）
+	- [1633](https://jp.tradingview.com/chart/?symbol=TSE:1633): 不動産
 
 ### アメリカ
 - [SPLG](https://jp.tradingview.com/chart/?symbol=SPLG): S&P 500
