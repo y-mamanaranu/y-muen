@@ -16,15 +16,16 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.min.js"></script>
 <script>
-  const csvfile = 'toc.csv';
-  const csv = $.csv.toArrays(csvfile);
+  const csvfile = 'https://y-muen.github.io/y-muen/toc.csv';
+  const csvdata = $.get(csvfile, "text")
+  const csv = $.csv.toArrays(csvdata.responseText);
   const list = $('#navi-array');
-  $(csv).each(()=>{
+  $(csv).each((row, val)=>{
     var item = document.createElement('li');
-    list.appendChild(item);
     var a = document.createElement('a');
     item.appendChild(a);
-    a.textContent = this[0];
-    a.href = this[1]; 
+    a.textContent = $.trim(val[0]);
+    a.href = $.trim(val[1]); 
+    list.append(item.outerHTML);
   });
 </script>
