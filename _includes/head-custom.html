@@ -19,13 +19,12 @@
   const csvfile = 'https://y-muen.github.io/y-muen/toc.csv';
   const csvdata = $.get(csvfile, "text")
   const csv = $.csv.toArrays(csvdata.responseText);
-  const list = $('#navi-array');
   $(csv).each((row, val)=>{
     var item = document.createElement('li');
     var a = document.createElement('a');
     item.appendChild(a);
     a.textContent = $.trim(val[0]);
     a.href = $.trim(val[1]); 
-    list.append(item.outerHTML);
+    $('#navi-array').append(item.outerHTML);
   });
 </script>
