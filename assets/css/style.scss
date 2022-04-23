@@ -8,7 +8,7 @@ header #toc ul {
     position: static;
 }
 
-#navigator {
+#navi {
     position: fixed;
     text-align: right;
     right: 0;
@@ -19,28 +19,28 @@ header #toc ul {
     list-style-type: none;
 }
 
-#navigator span {
+#navi span {
     background: white;
     padding: 5px;
 }
 
-#navigator li ul {
+#navi li ul {
     color: white;
     list-style-type: none;
 }
 
-#navigator li ul li {
+#navi li ul li {
     overflow: hidden;
     height: 0;
     color: white;
 }
 
-#navigator li ul li a {
+#navi li ul li a {
     background: white;
     padding: 5px 15px;
 }
 
-#navigator li:hover ul li {
+#navi li:hover ul li {
     overflow: visible;
     height: 30px;
 }
