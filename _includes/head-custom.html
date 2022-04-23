@@ -14,21 +14,16 @@
 
 <link rel="stylesheet" href="https://fonts.sandbox.google.com/css2?family=Material+Symbols+Rounded" />
 
-<script src="https://cdn.jsdelivr.net/npm/csv-parser"></script>
 <script>
-  const fs = require('fs');
-  const parse = require('csv-parse/lib/sync');
-
-  const data = fs.readFileSync('toc.csv');
-  const records = parse(data, {columns: false});
-
-  var list = document.getElementById('navi-array'); // ul
-  records.forEach((row) => {
+  const csvfile = 'toc.csv';
+  const csv = $.csv.toArrays(csvfile);
+  const list = $('#navi-array');
+  $(csv).each(()=>{
     var item = document.createElement('li');
     list.appendChild(item);
     var a = document.createElement('a');
     item.appendChild(a);
-    a.textContent = row[0];
-    a.href = row[1];
+    a.textContent = this[0];
+    a.href = this[1]; 
   });
 </script>
