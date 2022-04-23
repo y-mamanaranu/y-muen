@@ -33,6 +33,19 @@
 * ([SBI FXトレード](https://www.sbifxt.co.jp))
 
 ## ETF
+### 世界
+- セクター別
+	- [IXC]: エネルギー
+	- [MXI]: 素材
+	- [EXI]: 資本財
+	- [RXI]: 一般消費財
+	- [KXI]: 生活必需品
+	- [IXJ]: ヘルスケア
+	- [IXG]: 金融
+	- [IXN]: テクノロジー
+	- [IXP]: 電気通信
+	- [JXI]: 公益事業
+
 ### 日本
 - [1306](https://jp.tradingview.com/chart/?symbol=TSE:1306): TOPIX
 - [1321](https://jp.tradingview.com/chart/?symbol=TSE:1321): NIKKEI225
@@ -70,6 +83,7 @@
 	- [XLI](https://jp.tradingview.com/chart/?symbol=XLI): 資本財
 	- [XLB](https://jp.tradingview.com/chart/?symbol=XLB): 素材
 	- [XLK](https://jp.tradingview.com/chart/?symbol=XLK): テクノロジー
+	- [XLC](https://jp.tradingview.com/chart/?symbol=XLC): 電気通信
 	- [XLU](https://jp.tradingview.com/chart/?symbol=XLU): 公益事業
 
 ### アメリアs
