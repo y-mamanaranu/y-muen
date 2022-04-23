@@ -17,9 +17,9 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.min.js"></script>
 <script>
   const csvfile = 'https://y-muen.github.io/y-muen/toc.csv';
-  const csvdata = $.get(csvfile, "text")
-  const csv = $.csv.toArrays(csvdata.responseText);
-  $(csv).each((row, val)=>{
+  const csvtext = $.get(csvfile, "text")
+  const csvdata = $.csv.toArrays(csvtext.responseText);
+  $(csvdata).each((row, val)=>{
     var item = document.createElement('li');
     var a = document.createElement('a');
     item.appendChild(a);
