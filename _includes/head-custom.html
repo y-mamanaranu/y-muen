@@ -17,14 +17,16 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.min.js"></script>
 <script>
   const csvfile = 'https://y-muen.github.io/y-muen/toc.csv';
-  const csvtext = $.get(csvfile, "text")
-  const csvdata = $.csv.toArrays(csvtext.responseText);
-  $(csvdata).each((row, val)=>{
-    var item = document.createElement('li');
-    var a = document.createElement('a');
-    item.appendChild(a);
-    a.textContent = $.trim(val[0]);
-    a.href = $.trim(val[1]); 
-    $('#navi-array').append(item.outerHTML);
-  });
+  function update_navi(data){
+    const csv = $.csv.toArrays(data);
+    $(csv).each((row, val)=>{
+      var item = document.createElement('li');
+      var a = document.createElement('a');
+      item.appendChild(a);
+      a.textContent = $.trim(val[0]);
+      a.href = $.trim(val[1]); 
+      $('#navi-array').append(item.outerHTML);
+    });
+  }
+  $(function () {$.get(csvfile, update_navi, 'text');});
 </script>
