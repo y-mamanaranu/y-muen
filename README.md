@@ -1,7 +1,8 @@
-# Routine
+# Yoiduki
+## Routine
 * [日課](doc/routine.md)
 
-# Favorites
+## Favorites
 * [投資](doc/investment.md)
   - [y-muen/assets\-checker](https://github.com/y-muen/assets-checker): 証券口座から資産の情報を持ってくる
   - [y\-muen/easy\-robo\-advisors](https://github.com/y-muen/easy-robo-advisors): ポートフォリオのアセットアロケーションのアドバイス
@@ -20,7 +21,7 @@
 * グラブル
   - [y-muen/remove-tos-tweet](https://github.com/y-muen/remove-tos-tweet): @tosツイートを定期的に削除する
 
-# Links
+## Links
 - [Gravatar](https://ja.gravatar.com/ymuen): アイコン
 - [GitHub](https://github.com/y-muen): 投資となろう
   - [gist](https://gist.github.com/y-muen): Tampermonkeyのスクリプト達 

@@ -1,4 +1,4 @@
-# 植物
+# Plants
 ##  植物を買ってる
 * [オザキフラワーパーク](https://ozaki-flowerpark.co.jp/): 色々ある実店舗
 	* [楽天市場店](https://www.rakuten.co.jp/ozaki-flowerpark/)
