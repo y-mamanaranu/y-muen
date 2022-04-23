@@ -11,18 +11,7 @@
 - まず、窓を開けて、白湯を飲む
 - 顔を洗ったら、朝食を食べて、歯を磨く
 - 食器を洗って、着替えて
-- ニュース
-  * [Google Scholar](https://scholar.google.com/?authuser=1)
-  * [おすすめの論文 - Google Scholar](https://scholar.google.com/scholar?sciupd=1&authuser=1)
-  * [Bloomberg [JP]](https://www.bloomberg.co.jp/) [[EN]](https://www.bloomberg.com/)
-  * [Reuters [JP]](https://jp.reuters.com/) [[EN]](https://www.reuters.com/)
-  * [The Wall Street Journal [JP]](https://jp.wsj.com/) [[EN]](https://www.wsj.com/)
-  * [ITmedia NEWS](https://www.itmedia.co.jp/news/)
-  * [Google ニュース](https://news.google.com/)
-  * [Yahoo!ニュース](https://news.yahoo.co.jp/)
-- 天気
-  * [tenki.jp](https://tenki.jp/)
-  * [頭痛ーる](https://zutool.jp/)
+- [ニュース](./news.md)
 - 朝配信
 
   |    | 時刻   | 配信者    |
