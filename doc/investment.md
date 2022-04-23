@@ -35,16 +35,16 @@
 ## ETF
 ### 世界
 - セクター別
-	- [IXC]: エネルギー
-	- [MXI]: 素材
-	- [EXI]: 資本財
-	- [RXI]: 一般消費財
-	- [KXI]: 生活必需品
-	- [IXJ]: ヘルスケア
-	- [IXG]: 金融
-	- [IXN]: テクノロジー
-	- [IXP]: 電気通信
-	- [JXI]: 公益事業
+	- [IXC](https://jp.tradingview.com/chart/?symbol=IXC): エネルギー
+	- [MXI](https://jp.tradingview.com/chart/?symbol=MXI): 素材
+	- [EXI](https://jp.tradingview.com/chart/?symbol=EXI): 資本財
+	- [RXI](https://jp.tradingview.com/chart/?symbol=RXI): 一般消費財
+	- [KXI](https://jp.tradingview.com/chart/?symbol=KXI): 生活必需品
+	- [IXJ](https://jp.tradingview.com/chart/?symbol=IXJ): ヘルスケア
+	- [IXG](https://jp.tradingview.com/chart/?symbol=IXG): 金融
+	- [IXN](https://jp.tradingview.com/chart/?symbol=IXN): テクノロジー
+	- [IXP](https://jp.tradingview.com/chart/?symbol=IXP): 電気通信
+	- [JXI](https://jp.tradingview.com/chart/?symbol=JXI): 公益事業
 
 ### 日本
 - [1306](https://jp.tradingview.com/chart/?symbol=TSE:1306): TOPIX
