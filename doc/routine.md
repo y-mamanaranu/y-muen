@@ -30,24 +30,7 @@
 ## Noon
 - 12時には、昼食を食べて、歯を磨く
 - 昼寝は、15時までに
-- Brake
-  * [YouTube](https://www.youtube.com/)
-  * [TradingView](https://jp.tradingview.com/chart/)
-  * [PostPrime](https://postprime.com)
-  * [TweetDeck](https://tweetdeck.twitter.com/)
-    - [Twitter Developers](https://developer.twitter.com/en/apps/)
-  * [GreenSnap](https://greensnap.jp/timeline)
-  * [Reddit](https://www.reddit.com/)
-  * [ホロジュール](https://schedule.hololive.tv/)
-  * [Zaim](https://zaim.net/)
-  * [グラブル](http://game.granbluefantasy.jp/#mypage)
-    - [Granblue Search](https://gbs.eriri.net/)
-    - [グラブル編成アプリ](http://share.gbf.life/)
-    - [GameWith](https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/)
-    - [神ゲー攻略](https://kamigame.jp/%E3%82%B0%E3%83%A9%E3%83%96%E3%83%AB/index.html)
-    - [グラブル騎空団募集掲示板](https://gbf-bbs.com/)
-    - [天井貯金計算機](http://2shin.net/tokidoki/grbl/tenjo.html)
-    - [キャラ所有率チェッカー](https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/54257#sdtZsIMtXsKtnsItnTsIuCsI2BsZ2DsRN2SsKIQtnZsZRQtXsJ2QtfsQIb2f2RsmthsJtRFelsCCtPP2ctnse2hsZtbRsItWbsMtijsZJuBtahskCtCsOjatmUIsktWsn2itCuCtWjskuAtGHJmmaGYshtnl)
+- [Kill Time](./kill-time.md)
 
 ## End of work
 - 紅茶ポットを洗う
