@@ -129,7 +129,7 @@
 - [JJC](https://jp.tradingview.com/chart/?symbol=JJC): 銅
 - [JJN](https://jp.tradingview.com/chart/?symbol=JJN): ニッケル
 - [JJM](https://jp.tradingview.com/chart/?symbol=JJM): 産業金属
-- [OIL](https://jp.tradingview.com/chart/?symbol=OIL): WTI原油
+- [OIL](https://jp.tradingview.com/chart/?symbol=AMEX:OIL): WTI原油
 - [DBA](https://jp.tradingview.com/chart/?symbol=DBA): 農畜産物
 
 ## MACDパラメーター
