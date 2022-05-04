@@ -20,6 +20,8 @@
 * [高橋ダン [YouTube]](https://www.youtube.com/c/DanTakahashiPostPrime/videos) [[EN]](https://www.youtube.com/c/DanTakahashi/videos) [[PostPrime]](https://postprime.com/dantakahashi)
 * [バフェット太郎 [YouTube]](https://www.youtube.com/c/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E5%A4%AA%E9%83%8E%E3%81%AE%E6%8A%95%E8%B3%87%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/videos)
 * [エミン・ユルマズ [YouTube]](https://www.youtube.com/channel/UClDM5GP-nYn5gBvDryZDW9w/videos)
+* [栫井駿介 [YouTube]](https://www.youtube.com/c/Tsubame1045/videos)
+* [Joe Takayama [YouTube]](https://www.youtube.com/c/JoeTakayama/videos)[[Crypto]](https://www.youtube.com/channel/UChHDspjk1RSMWXe36OyV5rg/videos)
 * [Ray Dalio [YouTube]](https://www.youtube.com/c/principlesbyraydalio/videos)
 * [楽天証券 [YouTube]](https://www.youtube.com/user/RakutenSec/videos)
 * [マネックス証券 [YouTube]](https://www.youtube.com/c/Monexondemand/videos)
