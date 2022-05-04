@@ -27,6 +27,8 @@
 * グラブル
   - [y-muen/remove-tos-tweet](https://github.com/y-muen/remove-tos-tweet): @tosツイートを定期的に削除する
 
+## [Blog](https://y-muen.hatenablog.com/)
+
 ## Links
 - [Gravatar](https://ja.gravatar.com/ymuen): アイコン
 - [GitHub](https://github.com/y-muen): 投資となろう
