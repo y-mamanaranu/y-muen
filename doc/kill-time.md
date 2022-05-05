@@ -9,6 +9,14 @@
 * [Reddit](https://www.reddit.com/)
 * [ホロジュール](https://schedule.hololive.tv/)
 * [Zaim](https://zaim.net/)
+* [小説家になろう](https://syosetu.com/favnovelmain/list/)
+
+## プログラミング
+* [スタック・オーバーフロー](https://ja.stackoverflow.com/)
+* [Qiita](https://qiita.com/question-waiting-answers)
+* [ココナラ](https://coconala.com/requests/categories/11?categoryId=11&page=1)
+* [クラウドワークス](https://crowdworks.jp/public/jobs/group/development)
+* [ランサーズ](https://www.lancers.jp/work/search/system?open=1&ref=header_menu&show_description=1&sort=client&work_rank%5B%5D=0&work_rank%5B%5D=2&work_rank%5B%5D=3)
 
 ## [グラブル](http://game.granbluefantasy.jp/#mypage)
 - [Granblue Search](https://gbs.eriri.net/)
