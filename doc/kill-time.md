@@ -9,6 +9,7 @@
 * [Reddit](https://www.reddit.com/)
 * [ホロジュール](https://schedule.hololive.tv/)
 * [Zaim](https://zaim.net/)
+* [小説家になろう](https://syosetu.com/favnovelmain/list/)
 
 ## [グラブル](http://game.granbluefantasy.jp/#mypage)
 - [Granblue Search](https://gbs.eriri.net/)
