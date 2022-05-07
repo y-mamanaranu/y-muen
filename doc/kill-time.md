@@ -1,5 +1,7 @@
 # Kill Time
+* [Oxford Scholarship](https://oxford.universitypressscholarship.com/)
 * [Disboard](https://disboard.org/ja)
+* [Unsplash](https://unsplash.com/)
 * [YouTube](https://www.youtube.com/)
 * [TradingView](https://jp.tradingview.com/chart/)
 * [PostPrime](https://postprime.com)
@@ -10,6 +12,8 @@
 * [ホロジュール](https://schedule.hololive.tv/)
 * [Zaim](https://zaim.net/)
 * [小説家になろう](https://syosetu.com/favnovelmain/list/)
+* [陶器市・クラフトフェア42選](https://uchill.jp/blog/pottery-fes/toukiichi-craftsfair/)
+* [JREC\-IN Portal](https://jrecin.jst.go.jp/)
 
 ## プログラミング
 * [スタック・オーバーフロー](https://ja.stackoverflow.com/)

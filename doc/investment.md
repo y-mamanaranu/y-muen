@@ -38,6 +38,12 @@
 * ([GMOクリック証券](https://www.click-sec.com/))
 * ([SBI FXトレード](https://www.sbifxt.co.jp))
 
+## 銀行口座
+* [住信SBIネット銀行](https://www.netbk.co.jp/)
+* [ゆうちょ銀行](https://www.jp-bank.japanpost.jp/)
+* [三菱ＵＦＪ銀行](https://www.bk.mufg.jp/)
+* [みずほ銀行](https://www.mizuhobank.co.jp/)
+
 ## ETF
 ### 世界
 - セクター別
