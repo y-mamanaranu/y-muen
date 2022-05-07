@@ -5,6 +5,7 @@
 - 本を読む
 - 投資
   * 月10万円、年利5%で35年積み立てれば1億1300万円
+- 室温を21～25度、湿度を夏は40～55％、冬は45～60％程度
 
 ## Morning
 - 6時に起きて、7時半には出発
@@ -49,3 +50,4 @@
 
 ## See Also
 * [【UG# 362】2020/10/11 『プラダを着た悪魔』で分かるYouTubeのモーニングルーティンが履修科目である理由 新春映画解説特集 - YouTube](https://www.youtube.com/watch?v=l3nwZ4uUasE)
+* [生産性を上げたければ「温度」と「湿度」に気を配れ！？　最適な作業環境を徹底的に考察してみた。 \- STUDY HACKER｜これからの学びを考える、勉強法のハッキングメディア](https://studyhacker.net/columns/best-temperature-efficiency)
