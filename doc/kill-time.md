@@ -2,6 +2,7 @@
 * [Oxford Scholarship](https://oxford.universitypressscholarship.com/)
 * [IntechOpen](https://www.intechopen.com/)
 * [arXiv Analytics](http://arxitics.com/)
+* [JPS Hot Topics](https://jpsht.jps.jp/)
 * [ラーニング・サポーターによる講習会のテキスト \| 大阪大学附属図書館](https://www.library.osaka-u.ac.jp/ta_lectures/)
 * [Disboard](https://disboard.org/ja)
 * [Unsplash](https://unsplash.com/)
