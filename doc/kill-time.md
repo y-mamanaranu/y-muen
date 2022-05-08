@@ -21,6 +21,7 @@
 
 ## プログラミング
 * [スタック・オーバーフロー](https://ja.stackoverflow.com/)
+* [teratail](https://teratail.com/)
 * [Qiita](https://qiita.com/question-waiting-answers)
 * [ココナラ](https://coconala.com/requests/categories/11?categoryId=11&page=1)
 * [クラウドワークス](https://crowdworks.jp/public/jobs/group/development)
