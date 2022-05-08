@@ -43,6 +43,8 @@
 * [ゆうちょ銀行](https://www.jp-bank.japanpost.jp/)
 * [三菱ＵＦＪ銀行](https://www.bk.mufg.jp/)
 * [みずほ銀行](https://www.mizuhobank.co.jp/)
+* [日本生命保険相互会社](https://www.nissay.co.jp/)
+* [マイナポータル](https://myna.go.jp/)
 
 ## ETF
 ### 世界
