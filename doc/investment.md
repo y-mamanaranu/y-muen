@@ -30,6 +30,7 @@
 ## 投資口座
 * [SBI証券](https://www.sbisec.co.jp/ETGate)
 * [マネックス証券](https://www.monex.co.jp/)
+* [楽天証券](https://www.rakuten-sec.co.jp/)
 * [IG証券](https://www.ig.com/jp)
   - [マーケット情報](https://www.ig.com/jp/ig-financial-markets)
 * [bitFlyer](https://bitflyer.com/ja-jp/ex/Home)
