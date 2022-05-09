@@ -33,6 +33,8 @@
 	* [楽天市場店](https://www.rakuten.ne.jp/gold/gmart/)
 * ジモティー
 	* [植木鉢@東京](https://jmty.jp/tokyo/sale?keyword=%E6%A4%8D%E6%9C%A8%E9%89%A2)
+* メルカリ
+	* [植木鉢](https://jp.mercari.com/search?keyword=%E6%A4%8D%E6%9C%A8%E9%89%A2)
 
 ## 図鑑
 * [育て方がわかる植物図鑑](https://www.shuminoengei.jp/?a=page_p_top)
