@@ -4,8 +4,8 @@
   * [頭痛ーる](https://zutool.jp/)
 
 ## Academic
-* [Google Scholar](https://scholar.google.com/?authuser=1)
-* [おすすめの論文 - Google Scholar](https://scholar.google.com/scholar?sciupd=1&authuser=1)
+* [Google Scholar](https://scholar.google.com/?authuser=0)
+* [おすすめの論文 - Google Scholar](https://scholar.google.com/scholar?sciupd=1&authuser=0)
 
 ## Print Media
 * [Bloomberg [JP]](https://www.bloomberg.co.jp/) [[EN]](https://www.bloomberg.com/)

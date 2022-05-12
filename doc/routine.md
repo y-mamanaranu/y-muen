@@ -1,12 +1,12 @@
 # Routine
 ## Overall
 - 実験結果、調査結果は、スライドにまとめる
-  * [Googleスライドで資料を作成する手順 \- ものづくりブログ](https://daisukekmr.hatenablog.com/entry/2017/02/14/224005#2-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E4%BD%9C%E6%88%90)
-  * [【Googleスライド】プレゼン時のメモ（スピーカーノート）と募集した質問をスライドに表示する方法 \| DX推進の窓口](https://dxs.co.jp/blog/google-slide-presentation/)
-  * [Googleスライドのデザインテンプレート配布サイト20選【無料多数】 \- Workship MAGAZINE\(ワークシップマガジン\)](https://goworkship.com/magazine/googleslide-template-matome/)
+  * [Googleスライドで資料を作成する手順](https://daisukekmr.hatenablog.com/entry/2017/02/14/224005#2-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E4%BD%9C%E6%88%90)
+  * [【Googleスライド】プレゼン時のメモと募集した質問をスライドに表示する方法](https://dxs.co.jp/blog/google-slide-presentation/)
+  * [Googleスライドのデザインテンプレート配布サイト20選](https://goworkship.com/magazine/googleslide-template-matome/)
 - 定期的に報告書や投稿にまとめる
-  * [上司が“唸る”報告の仕方 \- 株式会社インソース](https://www.insource.co.jp/businessbunsho/houkoku_shikata.html)
-  * [ちゃんと伝わる「仕事ができる人」のメールの書き方 \| ライフハッカー［日本版］](https://www.lifehacker.jp/article/208480how-to-write-email-for-people-who-can-work/)
+  * [上司が“唸る”報告の仕方](https://www.insource.co.jp/businessbunsho/houkoku_shikata.html)
+  * [ちゃんと伝わる「仕事ができる人」のメールの書き方](https://www.lifehacker.jp/article/208480how-to-write-email-for-people-who-can-work/)
 - 本を読む
 - 投資
   * 月10万円、年利5%で35年積み立てれば1億1300万円
