@@ -16,6 +16,7 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.min.js"></script>
 <script>
+  const base='https://y-muen.github.io/y-muen';
   const csvfile = 'https://y-muen.github.io/y-muen/toc.csv';
   function update_navi(data){
     const csv = $.csv.toArrays(data);
@@ -25,6 +26,10 @@
       item.appendChild(a);
       a.textContent = $.trim(val[0]);
       a.href = $.trim(val[1]); 
+      if (!a.href.startsWith(base)) {
+        a.setAttribute("target", "_blank");
+        a.setAttribute("rel", "noopener noreferrer");
+      }
       $('#navi-array').append(item.outerHTML);
     });
   }
