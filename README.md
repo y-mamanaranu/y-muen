@@ -1,23 +1,23 @@
 # Yoiduki
-## Routine[🔗](doc/routine.md)
+## Routine [🔗](doc/routine.md)
 
-## Investment[🔗](doc/investment.md)
+## Investment [🔗](doc/investment.md)
 - [y-muen/assets\-checker](https://github.com/y-muen/assets-checker): 証券口座から資産の情報を持ってくる
 - [y\-muen/easy\-robo\-advisors](https://github.com/y-muen/easy-robo-advisors): ポートフォリオのアセットアロケーションのアドバイス
 - [y\-muen/compare\-securities\-firm](https://github.com/y-muen/compare-securities-firm): 証券会社の取り扱い商品を比較する
   * [海外ETF](https://y-muen.github.io/compare-securities-firm/doc/foreign-etf.html): 海外ETFの取り扱いを表に列挙
 
-## News[🔗](doc/news.md)
+## News [🔗](doc/news.md)
 - [Yahoo\! \- 掲載元検索](https://greasyfork.org/ja/scripts/443045-yahoo-%E6%8E%B2%E8%BC%89%E5%85%83%E6%A4%9C%E7%B4%A2): Yahoo!ニュースで記事の掲載元でのページを検索する
 - [Yahoo\! \- Yahoo\!検索削除](https://greasyfork.org/ja/scripts/443512-yahoo-yahoo-%E6%A4%9C%E7%B4%A2%E5%89%8A%E9%99%A4): Yahoo!ニュースでYahoo検索のポップアップを削除する。
 
-## Politics[🔗](doc/politics.md)
+## Politics [🔗](doc/politics.md)
 
-## Plants[🔗](doc/plants.md)
+## Plants [🔗](doc/plants.md)
 - [GreenSnap](https://greensnap.jp/my/y_muen): 観葉植物のアカウント
 - [植物関連の地図: 東京](https://www.google.com/maps/d/viewer?mid=1SoIozXh3XpcJSM49HWpzLDzFvf3P8R-1)
 
-## Kill Time[🔗](doc/kill-time.md)
+## Kill Time [🔗](doc/kill-time.md)
 - [Instagram](https://www.instagram.com/yoiduki.muen/): イラストとか
 - [SUZURI](https://suzuri.jp/y-muen): T-Shirt
 
@@ -31,7 +31,7 @@
 * グラブル
   - [y-muen/remove-tos-tweet](https://github.com/y-muen/remove-tos-tweet): @tosツイートを定期的に削除する
 
-## Blog[🔗](https://y-muen.hatenablog.com/)
+## Blog [🔗](https://y-muen.hatenablog.com/)
 
 ## Links
 - [Gravatar](https://ja.gravatar.com/ymuen): アイコン

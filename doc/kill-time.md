@@ -28,7 +28,7 @@
 * [クラウドワークス](https://crowdworks.jp/public/jobs/group/development)
 * [ランサーズ](https://www.lancers.jp/work/search/system?open=1&ref=header_menu&show_description=1&sort=client&work_rank%5B%5D=0&work_rank%5B%5D=2&work_rank%5B%5D=3)
 
-## グラブル[🔗](http://game.granbluefantasy.jp/#mypage)
+## グラブル [🔗](http://game.granbluefantasy.jp/#mypage)
 - [Granblue Search](https://gbs.eriri.net/)
 - [グラブル編成アプリ](http://share.gbf.life/)
 - [GameWith](https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/)
