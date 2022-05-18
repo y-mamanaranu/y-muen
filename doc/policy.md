@@ -1,8 +1,10 @@
 # Policy
+「人生に目標を、心に充足を。」
+
 人生には先が見通せず、不安と苦悩に満ちている。
 一方で、私たちが持つ時間は有限で、あてもなく停滞している余裕はない。
 限られた時間を効率的に使うために、Mission・Vision・Valueを言語化する。
-人生に目標を、心に充足を。
+悔いのない人生を送るために。
 
 ## Mission
 * Development & Environmet toward Future
