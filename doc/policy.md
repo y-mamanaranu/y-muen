@@ -5,20 +5,22 @@
 人生に目標を、心に充足を。
 
 ## Mission
-* Development & Environmet toward Future </br>
-  (情報社会における社会の発展と環境負荷の低減の両立)
-* Live with Green </br>
-  (自然と共生する)
-* Balancing Work and Family Life </br>
-  (仕事と自分の両立)
+* Development & Environmet toward Future
+  - 情報社会における社会の発展と環境負荷の低減の両立
+* Live with Green
+  - 自然と共生する
+* Balancing Work and Family Life
+  - 仕事と自分の両立
 
 ## Vision
-* Information Infrastructure in NexGen </br>
-  (高速大容量の通信技術と低エネルギーの情報処理を組み合わせた次世代情報基盤の実現)
-* Bringing Green into Home and Life </br>
-  (自然を生活の一部にする)
-* Mental and Physical Health Care </br>
-  (体と心を労わる)
+* Information Infrastructure in NexGen
+  - 高速大容量の通信技術
+  - 低エネルギーの情報処理
+  - それらを組み合わせた次世代情報基盤の実現
+* Bringing Green into Home and Life
+  - 自然を生活の一部にする
+* Mental and Physical Health Care
+  - 体と心を労わる
 
 ## Value
 - 専門分野への飽くなき探求
