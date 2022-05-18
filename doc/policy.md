@@ -9,7 +9,7 @@
   (情報社会における社会の発展と環境負荷の低減の両立)
 * Live with Green </br>
   (自然と共生する)
-* Balancing Work and Family Life
+* Balancing Work and Family Life </br>
   (仕事と自分の両立)
 
 ## Vision
