@@ -1,4 +1,6 @@
 # Yoiduki
+## Policy [🔗](doc/policy.md)
+
 ## Routine [🔗](doc/routine.md)
 
 ## Investment [🔗](doc/investment.md)
