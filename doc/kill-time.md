@@ -3,8 +3,9 @@
 * [IntechOpen](https://www.intechopen.com/)
 * [arXiv Analytics](http://arxitics.com/)
 * [JPS Hot Topics](https://jpsht.jps.jp/)
-* [ラーニング・サポーターによる講習会のテキスト \| 大阪大学附属図書館](https://www.library.osaka-u.ac.jp/ta_lectures/)
-* [Disboard](https://disboard.org/ja)
+* [ラーニング・サポーターによる講習会のテキスト](https://www.library.osaka-u.ac.jp/ta_lectures/)
+* [Disboard](https://disboard.org/ja/servers/tag/%E4%BD%9C%E6%A5%AD)
+* [ディスコード速報](https://dissoku.net/search/tag/%E4%BD%9C%E6%A5%AD?page=1)
 * [Unsplash](https://unsplash.com/)
 * [YouTube](https://www.youtube.com/)
 * [TradingView](https://jp.tradingview.com/chart/)
@@ -18,7 +19,7 @@
 * [小説家になろう](https://syosetu.com/favnovelmain/list/)
 * [陶器市・クラフトフェア42選](https://uchill.jp/blog/pottery-fes/toukiichi-craftsfair/)
 * [JREC\-IN Portal](https://jrecin.jst.go.jp/)
-* [忙しい都会人におすすめ！心が落ち着く東京都内の美しい公園12選 \| RETRIP\[リトリップ\]](https://rtrp.jp/articles/4509/)
+* [心が落ち着く東京都内の美しい公園12選](https://rtrp.jp/articles/4509/)
 
 ## プログラミング
 * [スタック・オーバーフロー](https://ja.stackoverflow.com/)
