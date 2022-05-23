@@ -6,19 +6,15 @@
 * [ラーニング・サポーターによる講習会のテキスト](https://www.library.osaka-u.ac.jp/ta_lectures/)
 * [Disboard](https://disboard.org/ja/servers/tag/%E4%BD%9C%E6%A5%AD)
 * [ディスコード速報](https://dissoku.net/search/tag/%E4%BD%9C%E6%A5%AD?page=1)
-* [Unsplash](https://unsplash.com/)
 * [YouTube](https://www.youtube.com/)
 * [TradingView](https://jp.tradingview.com/chart/)
 * [PostPrime](https://postprime.com)
 * [TweetDeck](https://tweetdeck.twitter.com/)
     - [Twitter Developers](https://developer.twitter.com/en/apps/)
-* [GreenSnap](https://greensnap.jp/timeline)
-* [RoomClip](https://roomclip.jp/)
 * [Reddit](https://www.reddit.com/)
 * [ホロジュール](https://schedule.hololive.tv/)
 * [Zaim](https://zaim.net/)
 * [小説家になろう](https://syosetu.com/favnovelmain/list/)
-* [陶器市・クラフトフェア42選](https://uchill.jp/blog/pottery-fes/toukiichi-craftsfair/)
 * [JREC\-IN Portal](https://jrecin.jst.go.jp/)
 * [心が落ち着く東京都内の美しい公園12選](https://rtrp.jp/articles/4509/)
 
@@ -29,6 +25,12 @@
 * [ココナラ](https://coconala.com/requests/categories/11?categoryId=11&page=1)
 * [クラウドワークス](https://crowdworks.jp/public/jobs/group/development)
 * [ランサーズ](https://www.lancers.jp/work/search/system?open=1&ref=header_menu&show_description=1&sort=client&work_rank%5B%5D=0&work_rank%5B%5D=2&work_rank%5B%5D=3)
+
+## 植物・インテリア
+* [GreenSnap](https://greensnap.jp/timeline)
+* [RoomClip](https://roomclip.jp/)
+* [Unsplash](https://unsplash.com/)
+* [陶器市・クラフトフェア42選](https://uchill.jp/blog/pottery-fes/toukiichi-craftsfair/)
 
 ## グラブル [🔗](http://game.granbluefantasy.jp/#mypage)
 - [Granblue Search](https://gbs.eriri.net/)
