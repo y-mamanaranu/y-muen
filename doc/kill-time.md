@@ -4,18 +4,20 @@
 * [arXiv Analytics](http://arxitics.com/)
 * [JPS Hot Topics](https://jpsht.jps.jp/)
 * [ラーニング・サポーターによる講習会のテキスト](https://www.library.osaka-u.ac.jp/ta_lectures/)
+* [ホロジュール](https://schedule.hololive.tv/)
+* [Zaim](https://zaim.net/)
+* [小説家になろう](https://syosetu.com/favnovelmain/list/)
+* [JREC\-IN Portal](https://jrecin.jst.go.jp/)
+
+## SNS
+* [TweetDeck](https://tweetdeck.twitter.com/)
+    - [Twitter Developers](https://developer.twitter.com/en/apps/)
+* [Reddit](https://www.reddit.com/)
 * [Disboard](https://disboard.org/ja/servers/tag/%E4%BD%9C%E6%A5%AD)
 * [ディスコード速報](https://dissoku.net/search/tag/%E4%BD%9C%E6%A5%AD?page=1)
 * [YouTube](https://www.youtube.com/)
 * [TradingView](https://jp.tradingview.com/chart/)
 * [PostPrime](https://postprime.com)
-* [TweetDeck](https://tweetdeck.twitter.com/)
-    - [Twitter Developers](https://developer.twitter.com/en/apps/)
-* [Reddit](https://www.reddit.com/)
-* [ホロジュール](https://schedule.hololive.tv/)
-* [Zaim](https://zaim.net/)
-* [小説家になろう](https://syosetu.com/favnovelmain/list/)
-* [JREC\-IN Portal](https://jrecin.jst.go.jp/)
 
 ## 植物・インテリア
 * [GreenSnap](https://greensnap.jp/timeline)
