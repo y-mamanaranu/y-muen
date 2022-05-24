@@ -16,6 +16,15 @@
 * [Zaim](https://zaim.net/)
 * [小説家になろう](https://syosetu.com/favnovelmain/list/)
 * [JREC\-IN Portal](https://jrecin.jst.go.jp/)
+
+## 植物・インテリア
+* [GreenSnap](https://greensnap.jp/timeline)
+* [RoomClip](https://roomclip.jp/)
+* [Unsplash](https://unsplash.com/)
+* [陶器市・クラフトフェア42選](https://uchill.jp/blog/pottery-fes/toukiichi-craftsfair/)
+* [Daisuke Miyazaki](https://www.youtube.com/c/DaisukeMiyazakiTV/videos)
+* [クリエイティブの裏側](https://www.youtube.com/channel/UC5QPjyH-ASgmOLEbuBhMgEg/videos)
+* [BarKORU sasanta](https://www.youtube.com/channel/UCsXYnNB2EVTEFBO-ObqGrrQ/videos)
 * [心が落ち着く東京都内の美しい公園12選](https://rtrp.jp/articles/4509/)
 
 ## プログラミング
@@ -26,11 +35,14 @@
 * [クラウドワークス](https://crowdworks.jp/public/jobs/group/development)
 * [ランサーズ](https://www.lancers.jp/work/search/system?open=1&ref=header_menu&show_description=1&sort=client&work_rank%5B%5D=0&work_rank%5B%5D=2&work_rank%5B%5D=3)
 
-## 植物・インテリア
-* [GreenSnap](https://greensnap.jp/timeline)
-* [RoomClip](https://roomclip.jp/)
-* [Unsplash](https://unsplash.com/)
-* [陶器市・クラフトフェア42選](https://uchill.jp/blog/pottery-fes/toukiichi-craftsfair/)
+## 料理
+* [ささみキッチン](https://www.youtube.com/channel/UCmqmviEVZbMSgYB7cQWTU9Q/videos)
+* [KAZUAKI EGUCHI](https://www.youtube.com/channel/UCluB47fcS-RnvNjPHrXYS5Q/videos)
+* [ファビオ飯](https://www.youtube.com/channel/UC9poG8aQWgYvJykq9PXsvoA/videos)
+* [くまの限界食堂](https://www.youtube.com/channel/UCw2lRr9C-KTpoNlYK-oH93g/videos)
+* [kurashiru [Web]](https://www.kurashiru.com/) [[YouTube]](https://www.youtube.com/c/kurashiru/videos)
+* [LIFE\.net](https://www.youtube.com/channel/UC1oDYmq2regnCn60SWrWbbg/videos)
+* [きょう何たべよ / Marco Macri](https://www.youtube.com/channel/UCQnsCgHXnXR4y8fecFCJQcw/videos)
 
 ## グラブル [🔗](http://game.granbluefantasy.jp/#mypage)
 - [Granblue Search](https://gbs.eriri.net/)
