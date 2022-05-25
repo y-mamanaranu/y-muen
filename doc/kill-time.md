@@ -17,7 +17,7 @@
     - [Twitter Developers](https://developer.twitter.com/en/apps/)
 * [Reddit](https://www.reddit.com/)
 * [Discord](https://discord.com/app)
-    * [Disboard](https://disboard.org/ja/servers/tag/%E4%BD%9C%E6%A5%AD)
+    * [Disboard [作業]](https://disboard.org/ja/servers/tag/%E4%BD%9C%E6%A5%AD)[[研究]](https://disboard.org/ja/servers/tag/%E7%A0%94%E7%A9%B6)
     * [ディスコード速報](https://dissoku.net/search/tag/%E4%BD%9C%E6%A5%AD?page=1)
 * [YouTube](https://www.youtube.com/)
 * [TradingView](https://jp.tradingview.com/chart/)
