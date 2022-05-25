@@ -1,12 +1,14 @@
 # Kill Time
+* [Zaim](https://zaim.net/)
+* [ホロジュール](https://schedule.hololive.tv/)
+* [小説家になろう](https://syosetu.com/favnovelmain/list/)
+
+## Informative
 * [Oxford Scholarship](https://oxford.universitypressscholarship.com/)
 * [IntechOpen](https://www.intechopen.com/)
 * [arXiv Analytics](http://arxitics.com/)
 * [JPS Hot Topics](https://jpsht.jps.jp/)
 * [ラーニング・サポーターによる講習会のテキスト](https://www.library.osaka-u.ac.jp/ta_lectures/)
-* [ホロジュール](https://schedule.hololive.tv/)
-* [Zaim](https://zaim.net/)
-* [小説家になろう](https://syosetu.com/favnovelmain/list/)
 * [JREC\-IN Portal](https://jrecin.jst.go.jp/)
 
 ## SNS
