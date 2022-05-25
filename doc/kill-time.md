@@ -8,6 +8,7 @@
 * [IntechOpen](https://www.intechopen.com/)
 * [arXiv Analytics](http://arxitics.com/)
 * [JPS Hot Topics](https://jpsht.jps.jp/)
+* [物性研究・電子版](http://mercury.yukawa.kyoto-u.ac.jp/~bussei.kenkyu/archives/section/02000)
 * [ラーニング・サポーターによる講習会のテキスト](https://www.library.osaka-u.ac.jp/ta_lectures/)
 * [JREC\-IN Portal](https://jrecin.jst.go.jp/)
 
