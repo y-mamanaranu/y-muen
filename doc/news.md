@@ -17,24 +17,24 @@
 
 ## Video Media
 ### 公営ニュース
-* [NHK World News](https://www.youtube.com/channel/UCU6mAi5ZQt5zXiZu5Hr1kRA)
-* [VOA News](https://www.youtube.com/channel/UCVSNOxehfALut52NbkfRBaA)
-* [BBC News](https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA)
-* [FRANCE 24 English](https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg)
-* [ABC News (Australia)](https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q)
-* [CNA](https://www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg)
-* [Al Jazeera English](https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg)
-* [CBS News](https://www.youtube.com/channel/UC8p1vwvWtl6T73JiExfWs1g)
+* [NHK World News](https://www.youtube.com/channel/zUCU6mAi5ZQt5zXiZu5Hr1kRA/videos)
+* [VOA News](https://www.youtube.com/channel/zUCVSNOxehfALut52NbkfRBaA/videos)
+* [BBC News](https://www.youtube.com/channel/zUC16niRr50-MSBwiO3YDb3RA/videos)
+* [FRANCE 24 English](https://www.youtube.com/channel/zUCQfwfsi5VrQ8yKZ-UWmAEFg/videos)
+* [ABC News (Australia)](https://www.youtube.com/channel/zUCVgO39Bk5sMo66-6o6Spn6Q/videos)
+* [CNA](https://www.youtube.com/channel/zUC83jt4dlz1Gjl58fzQrrKZg/videos)
+* [Al Jazeera English](https://www.youtube.com/channel/zUCNye-wNBqNL5ZzHSJj3l8Bg/videos)
+* [CBS News](https://www.youtube.com/channel/zUC8p1vwvWtl6T73JiExfWs1g/videos)
 
 ### 民間ニュース
-* [Bloomberg Quicktake](https://www.youtube.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ)
-* [Financial Times](https://www.youtube.com/channel/UCoUxsWakJucWg46KW5RsvPw)
-* [ProPublica](https://www.youtube.com/channel/UCtCL58_DaVdVRmev3yHK7pg)
-* [The Economist](https://www.youtube.com/channel/UC0p5jTq6Xx_DosDFxVXnWaQ)
+* [Bloomberg Quicktake](https://www.youtube.com/channel/zUCUMZ7gohGI9HcU9VNsr2FJQ/videos)
+* [Financial Times](https://www.youtube.com/channel/zUCoUxsWakJucWg46KW5RsvPw/videos)
+* [ProPublica](https://www.youtube.com/channel/zUCtCL58_DaVdVRmev3yHK7pg/videos)
+* [The Economist](https://www.youtube.com/channel/zUC0p5jTq6Xx_DosDFxVXnWaQ/videos)
 
 ### Webメディア
-* [ABEMAニュース【公式】](https://www.youtube.com/channel/UCk5a240pQsTVT9CWPnTyIJw)
-* [NewsPicks](https://www.youtube.com/channel/UCfTnJmRQP79C4y_BMF_XrlA)
+* [ABEMAニュース【公式】](https://www.youtube.com/channel/zUCk5a240pQsTVT9CWPnTyIJw/videos)
+* [NewsPicks](https://www.youtube.com/channel/zUCfTnJmRQP79C4y_BMF_XrlA/videos)
 
 YouTubeのURLは、`https://www.youtube.com/channel/{channel}`の形式だが、
 `https://www.youtube.com/feeds/videos.xml?channel_id={channel}`とするとRSSフィードになる。
