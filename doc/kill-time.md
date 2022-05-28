@@ -2,6 +2,7 @@
 * [Zaim](https://zaim.net/)
 * [ホロジュール](https://schedule.hololive.tv/)
 * [小説家になろう](https://syosetu.com/favnovelmain/list/)
+* [Open VSX Registry](https://open-vsx.org/)
 
 ## Informative
 * [Oxford Scholarship](https://oxford.universitypressscholarship.com/)
