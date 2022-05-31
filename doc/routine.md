@@ -15,6 +15,8 @@
 - 顔を洗ったら、朝食を食べて、歯を磨く
 - 食器を洗って、着替えて
 - [ニュース](./news.md)
+  - [tenki.jp](https://tenki.jp/)
+  - [頭痛ーる](https://zutool.jp/)
 - 朝配信
 
   |    | 時刻   | 配信者    |
@@ -127,5 +129,5 @@
 - [愚痴をこぼす人への賢い対処法](https://commu-training.isoroot.jp/blog/n-guchi-taisyo-0209/)
 
 ## See Also
-- [【UG# 362】2020/10/11 『プラダを着た悪魔』で分かるYouTubeのモーニングルーティンが履修科目である理由 新春映画解説特集 - YouTube](https://www.youtube.com/watch?v=l3nwZ4uUasE)
-- [生産性を上げたければ「温度」と「湿度」に気を配れ！？　最適な作業環境を徹底的に考察してみた。 \- STUDY HACKER｜これからの学びを考える、勉強法のハッキングメディア](https://studyhacker.net/columns/best-temperature-efficiency)
+- [『プラダを着た悪魔』で分かるYouTubeのモーニングルーティンが履修科目である理由](https://www.youtube.com/watch?v=l3nwZ4uUasE)
+- [生産性を上げたければ「温度」と「湿度」に気を配れ！？　最適な作業環境を徹底的に考察してみた。](https://studyhacker.net/columns/best-temperature-efficiency)
