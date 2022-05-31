@@ -44,65 +44,65 @@
 - 夕食を食べて、歯を磨く
 - 食器を洗って、風呂に入る
 - 23時までに寝る
-* [Zaim](https://zaim.net/): 出納管理
+- [Zaim](https://zaim.net/): 出納管理
+- [TradingView](https://jp.tradingview.com/chart/)
 - [投資](./investment.md)
 
 ## Monthly
-* [Brave Rewards クリエイター](https://publishers.basicattentiontoken.org/publishers/home?locale=ja)
-* [PostPrime クリエーター](https://postprime.com/dashboard)
-* [Buy Me a Coffee](https://www.buymeacoffee.com/)
+- [Brave Rewards クリエイター](https://publishers.basicattentiontoken.org/publishers/home?locale=ja)
+- [PostPrime クリエーター](https://postprime.com/dashboard)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/)
 
 ## Kill Time
 ### Informative
-* [Oxford Scholarship](https://oxford.universitypressscholarship.com/)
-* [IntechOpen](https://www.intechopen.com/)
-* [arXiv Analytics](http://arxitics.com/)
-* [JPS Hot Topics](https://jpsht.jps.jp/)
-* [物性研究・電子版](http://mercury.yukawa.kyoto-u.ac.jp/~bussei.kenkyu/archives/section/02000)
-* [ラーニング・サポーターによる講習会のテキスト](https://www.library.osaka-u.ac.jp/ta_lectures/)
-* [JREC\-IN Portal](https://jrecin.jst.go.jp/)
-* [Open VSX Registry](https://open-vsx.org/)
+- [Oxford Scholarship](https://oxford.universitypressscholarship.com/)
+- [IntechOpen](https://www.intechopen.com/)
+- [arXiv Analytics](http://arxitics.com/)
+- [JPS Hot Topics](https://jpsht.jps.jp/)
+- [物性研究・電子版](http://mercury.yukawa.kyoto-u.ac.jp/~bussei.kenkyu/archives/section/02000)
+- [ラーニング・サポーターによる講習会のテキスト](https://www.library.osaka-u.ac.jp/ta_lectures/)
+- [JREC\-IN Portal](https://jrecin.jst.go.jp/)
+- [Open VSX Registry](https://open-vsx.org/)
 
 ### SNS
-* [TweetDeck](https://tweetdeck.twitter.com/)
+- [TweetDeck](https://tweetdeck.twitter.com/)
     - [Twitter Developers](https://developer.twitter.com/en/apps/)
-* [Reddit](https://www.reddit.com/)
-* [Discord](https://discord.com/app)
-    * [Disboard [作業]](https://disboard.org/ja/servers/tag/%E4%BD%9C%E6%A5%AD)[[研究]](https://disboard.org/ja/servers/tag/%E7%A0%94%E7%A9%B6)
-    * [ディスコード速報](https://dissoku.net/search/tag/%E4%BD%9C%E6%A5%AD?page=1)
-* [YouTube](https://www.youtube.com/)
-* [Spotify](https://open.spotify.com/)
-* [TradingView](https://jp.tradingview.com/chart/)
-* [PostPrime](https://postprime.com)
-* [小説家になろう](https://syosetu.com/favnovelmain/list/)
-* [ホロジュール](https://schedule.hololive.tv/)
+- [Reddit](https://www.reddit.com/)
+- [Discord](https://discord.com/app)
+    - [Disboard [作業]](https://disboard.org/ja/servers/tag/%E4%BD%9C%E6%A5%AD)[[研究]](https://disboard.org/ja/servers/tag/%E7%A0%94%E7%A9%B6)
+    - [ディスコード速報](https://dissoku.net/search/tag/%E4%BD%9C%E6%A5%AD?page=1)
+- [YouTube](https://www.youtube.com/)
+- [Spotify](https://open.spotify.com/)
+- [PostPrime](https://postprime.com)
+- [小説家になろう](https://syosetu.com/favnovelmain/list/)
+- [ホロジュール](https://schedule.hololive.tv/)
 
 ### 植物・インテリア
-* [GreenSnap](https://greensnap.jp/timeline)
-* [RoomClip](https://roomclip.jp/)
-* [Unsplash](https://unsplash.com/)
-* [陶器市・クラフトフェア42選](https://uchill.jp/blog/pottery-fes/toukiichi-craftsfair/)
-* [Daisuke Miyazaki](https://www.youtube.com/c/DaisukeMiyazakiTV/videos)
-* [クリエイティブの裏側](https://www.youtube.com/channel/UC5QPjyH-ASgmOLEbuBhMgEg/videos)
-* [BarKORU sasanta](https://www.youtube.com/channel/UCsXYnNB2EVTEFBO-ObqGrrQ/videos)
-* [心が落ち着く東京都内の美しい公園12選](https://rtrp.jp/articles/4509/)
+- [GreenSnap](https://greensnap.jp/timeline)
+- [RoomClip](https://roomclip.jp/)
+- [Unsplash](https://unsplash.com/)
+- [陶器市・クラフトフェア42選](https://uchill.jp/blog/pottery-fes/toukiichi-craftsfair/)
+- [Daisuke Miyazaki](https://www.youtube.com/c/DaisukeMiyazakiTV/videos)
+- [クリエイティブの裏側](https://www.youtube.com/channel/UC5QPjyH-ASgmOLEbuBhMgEg/videos)
+- [BarKORU sasanta](https://www.youtube.com/channel/UCsXYnNB2EVTEFBO-ObqGrrQ/videos)
+- [心が落ち着く東京都内の美しい公園12選](https://rtrp.jp/articles/4509/)
 
 ### プログラミング
-* [スタック・オーバーフロー](https://ja.stackoverflow.com/)
-* [teratail](https://teratail.com/)
-* [Qiita](https://qiita.com/question-waiting-answers)
-* [ココナラ](https://coconala.com/requests/categories/11?categoryId=11&page=1)
-* [クラウドワークス](https://crowdworks.jp/public/jobs/group/development)
-* [ランサーズ](https://www.lancers.jp/work/search/system?open=1&ref=header_menu&show_description=1&sort=client&work_rank%5B%5D=0&work_rank%5B%5D=2&work_rank%5B%5D=3)
+- [スタック・オーバーフロー](https://ja.stackoverflow.com/)
+- [teratail](https://teratail.com/)
+- [Qiita](https://qiita.com/question-waiting-answers)
+- [ココナラ](https://coconala.com/requests/categories/11?categoryId=11&page=1)
+- [クラウドワークス](https://crowdworks.jp/public/jobs/group/development)
+- [ランサーズ](https://www.lancers.jp/work/search/system?open=1&ref=header_menu&show_description=1&sort=client&work_rank%5B%5D=0&work_rank%5B%5D=2&work_rank%5B%5D=3)
 
 ### 料理
-* [ささみキッチン](https://www.youtube.com/channel/UCmqmviEVZbMSgYB7cQWTU9Q/videos)
-* [KAZUAKI EGUCHI](https://www.youtube.com/channel/UCluB47fcS-RnvNjPHrXYS5Q/videos)
-* [ファビオ飯](https://www.youtube.com/channel/UC9poG8aQWgYvJykq9PXsvoA/videos)
-* [くまの限界食堂](https://www.youtube.com/channel/UCw2lRr9C-KTpoNlYK-oH93g/videos)
-* [kurashiru [Web]](https://www.kurashiru.com/) [[YouTube]](https://www.youtube.com/c/kurashiru/videos)
-* [LIFE\.net](https://www.youtube.com/channel/UC1oDYmq2regnCn60SWrWbbg/videos)
-* [きょう何たべよ / Marco Macri](https://www.youtube.com/channel/UCQnsCgHXnXR4y8fecFCJQcw/videos)
+- [ささみキッチン](https://www.youtube.com/channel/UCmqmviEVZbMSgYB7cQWTU9Q/videos)
+- [KAZUAKI EGUCHI](https://www.youtube.com/channel/UCluB47fcS-RnvNjPHrXYS5Q/videos)
+- [ファビオ飯](https://www.youtube.com/channel/UC9poG8aQWgYvJykq9PXsvoA/videos)
+- [くまの限界食堂](https://www.youtube.com/channel/UCw2lRr9C-KTpoNlYK-oH93g/videos)
+- [kurashiru [Web]](https://www.kurashiru.com/) [[YouTube]](https://www.youtube.com/c/kurashiru/videos)
+- [LIFE\.net](https://www.youtube.com/channel/UC1oDYmq2regnCn60SWrWbbg/videos)
+- [きょう何たべよ / Marco Macri](https://www.youtube.com/channel/UCQnsCgHXnXR4y8fecFCJQcw/videos)
 
 ### グラブル [🔗](http://game.granbluefantasy.jp/#mypage)
 - [Granblue Search](https://gbs.eriri.net/)
@@ -114,18 +114,18 @@
 - [キャラ所有率チェッカー](https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/54257#sdtZsIMtXsKtnsItnTsIuCsI2BsZ2DsRN2SsKIQtnZsZRQtXsJ2QtfsQIb2f2RsmthsJtRFelsCCtPP2ctnse2hsZtbRsItWbsMtijsZJuBtahskCtCsOjatmUIsktWsn2itCuCtWjskuAtGHJmmaGYshtnl)
 
 ### プレゼン
-* [Googleスライドで資料を作成する手順](https://daisukekmr.hatenablog.com/entry/2017/02/14/224005#2-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E4%BD%9C%E6%88%90)
-* [プレゼン時のメモと募集した質問をスライドに表示する方法](https://dxs.co.jp/blog/google-slide-presentation/)
-* [Googleスライドのデザインテンプレート配布サイト20選](https://goworkship.com/magazine/googleslide-template-matome/)
+- [Googleスライドで資料を作成する手順](https://daisukekmr.hatenablog.com/entry/2017/02/14/224005#2-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E4%BD%9C%E6%88%90)
+- [プレゼン時のメモと募集した質問をスライドに表示する方法](https://dxs.co.jp/blog/google-slide-presentation/)
+- [Googleスライドのデザインテンプレート配布サイト20選](https://goworkship.com/magazine/googleslide-template-matome/)
 
 ### 報告
-* [上司が“唸る”報告の仕方](https://www.insource.co.jp/businessbunsho/houkoku_shikata.html)
-* [ちゃんと伝わる「仕事ができる人」のメールの書き方](https://www.lifehacker.jp/article/208480how-to-write-email-for-people-who-can-work/)
+- [上司が“唸る”報告の仕方](https://www.insource.co.jp/businessbunsho/houkoku_shikata.html)
+- [ちゃんと伝わる「仕事ができる人」のメールの書き方](https://www.lifehacker.jp/article/208480how-to-write-email-for-people-who-can-work/)
 
 ### 相談
-* [人の話を聞くと疲れちゃう人に朗報！ 精神科医お墨付きの“聴く技術”とは？](https://ddnavi.com/review/538982/a/)
-* [愚痴をこぼす人への賢い対処法](https://commu-training.isoroot.jp/blog/n-guchi-taisyo-0209/)
+- [人の話を聞くと疲れちゃう人に朗報！ 精神科医お墨付きの“聴く技術”とは？](https://ddnavi.com/review/538982/a/)
+- [愚痴をこぼす人への賢い対処法](https://commu-training.isoroot.jp/blog/n-guchi-taisyo-0209/)
 
 ## See Also
-* [【UG# 362】2020/10/11 『プラダを着た悪魔』で分かるYouTubeのモーニングルーティンが履修科目である理由 新春映画解説特集 - YouTube](https://www.youtube.com/watch?v=l3nwZ4uUasE)
-* [生産性を上げたければ「温度」と「湿度」に気を配れ！？　最適な作業環境を徹底的に考察してみた。 \- STUDY HACKER｜これからの学びを考える、勉強法のハッキングメディア](https://studyhacker.net/columns/best-temperature-efficiency)
+- [【UG# 362】2020/10/11 『プラダを着た悪魔』で分かるYouTubeのモーニングルーティンが履修科目である理由 新春映画解説特集 - YouTube](https://www.youtube.com/watch?v=l3nwZ4uUasE)
+- [生産性を上げたければ「温度」と「湿度」に気を配れ！？　最適な作業環境を徹底的に考察してみた。 \- STUDY HACKER｜これからの学びを考える、勉強法のハッキングメディア](https://studyhacker.net/columns/best-temperature-efficiency)
