@@ -128,6 +128,12 @@
 - [人の話を聞くと疲れちゃう人に朗報！ 精神科医お墨付きの“聴く技術”とは？](https://ddnavi.com/review/538982/a/)
 - [愚痴をこぼす人への賢い対処法](https://commu-training.isoroot.jp/blog/n-guchi-taisyo-0209/)
 
-## See Also
+### 生活改善
+- [悪い習慣にさようなら](https://www.nike.com/jp/a/how-to-break-bad-habits)
+- [ストレス食いを止める簡単な方法](https://www.nike.com/jp/a/what-is-emotional-eating)
 - [『プラダを着た悪魔』で分かるYouTubeのモーニングルーティンが履修科目である理由](https://www.youtube.com/watch?v=l3nwZ4uUasE)
 - [生産性を上げたければ「温度」と「湿度」に気を配れ！？　最適な作業環境を徹底的に考察してみた。](https://studyhacker.net/columns/best-temperature-efficiency)
+
+### タイピング
+- [かなタイピング](https://www.e-typing.ne.jp/member/cht.asp?tp=1)
+- [英語タイピング](https://www.e-typing.ne.jp/member/cht.asp?tp=2)
