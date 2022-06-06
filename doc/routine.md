@@ -69,6 +69,8 @@
 ### SNS
 - [TweetDeck](https://tweetdeck.twitter.com/)
   - [Twitter Developers](https://developer.twitter.com/en/apps/)
+- [Instagram](https://www.instagram.com/)
+- [TikTok](https://www.tiktok.com/)
 - [Reddit](https://www.reddit.com/)
 - [Discord](https://discord.com/app)
   - [Disboard [作業]](https://disboard.org/ja/servers/tag/%E4%BD%9C%E6%A5%AD)[[研究]](https://disboard.org/ja/servers/tag/%E7%A0%94%E7%A9%B6)
@@ -80,13 +82,12 @@
 - [PostPrime](https://postprime.com)
 - [Kindle](https://read.amazon.co.jp/kindle-library)
 - [小説家になろう](https://syosetu.com/favnovelmain/list/)
-- [Pinterest](https://www.pinterest.jp/)
-- [RoomClip](https://roomclip.jp/)
 - [ホロジュール](https://schedule.hololive.tv/)
 
 ### 植物・インテリア
 - [GreenSnap](https://greensnap.jp/timeline)
 - [RoomClip](https://roomclip.jp/)
+- [Pinterest](https://www.pinterest.jp/)
 - [Unsplash](https://unsplash.com/)
 - [陶器市・クラフトフェア42選](https://uchill.jp/blog/pottery-fes/toukiichi-craftsfair/)
 - [Daisuke Miyazaki](https://www.youtube.com/c/DaisukeMiyazakiTV/videos)
