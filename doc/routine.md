@@ -68,15 +68,20 @@
 
 ### SNS
 - [TweetDeck](https://tweetdeck.twitter.com/)
-    - [Twitter Developers](https://developer.twitter.com/en/apps/)
+  - [Twitter Developers](https://developer.twitter.com/en/apps/)
 - [Reddit](https://www.reddit.com/)
 - [Discord](https://discord.com/app)
-    - [Disboard [作業]](https://disboard.org/ja/servers/tag/%E4%BD%9C%E6%A5%AD)[[研究]](https://disboard.org/ja/servers/tag/%E7%A0%94%E7%A9%B6)
-    - [ディスコード速報](https://dissoku.net/search/tag/%E4%BD%9C%E6%A5%AD?page=1)
+  - [Disboard [作業]](https://disboard.org/ja/servers/tag/%E4%BD%9C%E6%A5%AD)[[研究]](https://disboard.org/ja/servers/tag/%E7%A0%94%E7%A9%B6)
+  - [ディスコード速報](https://dissoku.net/search/tag/%E4%BD%9C%E6%A5%AD?page=1)
 - [YouTube](https://www.youtube.com/)
+  - [ライブラリ](https://www.youtube.com/feed/library)
 - [Spotify](https://open.spotify.com/)
+  - [ライブラリ](https://open.spotify.com/collection/playlists)
 - [PostPrime](https://postprime.com)
+- [Kindle](https://read.amazon.co.jp/kindle-library)
 - [小説家になろう](https://syosetu.com/favnovelmain/list/)
+- [Pinterest](https://www.pinterest.jp/)
+- [RoomClip](https://roomclip.jp/)
 - [ホロジュール](https://schedule.hololive.tv/)
 
 ### 植物・インテリア
@@ -119,6 +124,7 @@
 - [Googleスライドで資料を作成する手順](https://daisukekmr.hatenablog.com/entry/2017/02/14/224005#2-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E4%BD%9C%E6%88%90)
 - [プレゼン時のメモと募集した質問をスライドに表示する方法](https://dxs.co.jp/blog/google-slide-presentation/)
 - [Googleスライドのデザインテンプレート配布サイト20選](https://goworkship.com/magazine/googleslide-template-matome/)
+- [デザインをはじめたい人に役立つ情報をまとめています。](https://umuco.jp/category/creative/design/)
 
 ### 報告
 - [上司が“唸る”報告の仕方](https://www.insource.co.jp/businessbunsho/houkoku_shikata.html)
@@ -137,3 +143,6 @@
 ### タイピング
 - [かなタイピング](https://www.e-typing.ne.jp/member/cht.asp?tp=1)
 - [英語タイピング](https://www.e-typing.ne.jp/member/cht.asp?tp=2)
+
+### 風景
+- [壮麗！ヨーロッパの25のお城](https://www.buzzfeed.com/jp/bfjapan/29catsles)
