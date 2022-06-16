@@ -1,5 +1,6 @@
 # Routine
 ## Overall
+- 7時間睡眠
 - 実験結果、調査結果は、スライドにまとめる
 - 定期的に報告書や投稿にまとめる
 - 本を読む
@@ -10,42 +11,62 @@
   * [15 min rule](https://twitter.com/math_rachel/status/764931533383749632)
 
 ## Morning
-- 6時に起きて、7時半には出発
-- まず、窓を開けて、白湯を飲む
-- 顔を洗ったら、朝食を食べて、歯を磨く
-- 食器を洗って、着替えて
-- [ニュース](./news.md)
+
+| 時刻  |                         To Do                         |
+| ----- | ----------------------------------------------------- |
+| 23:00 | **何がなんでも寝る**                                  |
+|       | 睡眠 (7時間)                                          |
+| 6:00  | **何がなんでも起きる**                                |
+|       | 身支度: 窓を開ける・白湯を飲む・顔を洗う・天気 (15分) |
+|       | ヨガ・運動 (30分)                                     |
+|       | 植物 (15分)                                           |
+| 7:00  | 朝食・歯磨き・着替える                                |
+| 8:00  | 出宅: ニュース / 掃除                                 |
+
+- [ニュース・天気](./news.md)
   - [tenki.jp](https://tenki.jp/)
   - [頭痛ーる](https://zutool.jp/)
-- 朝配信
 
-  |    | 時刻   | 配信者    |
-  | -- | ----- | -------- |
-  | 月 |  7:00 | [大神ミオ](https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg)   |
-  | 火 |  7:00 | [博衣こより](https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw)  |
-  | 木 |  7:00 | [夜空メル](https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw)   |
-  | 金 |  7:00 | [博衣こより](https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw)  |
-  | 土 | 10:00 | [大空スバル](https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA) |
+## First half of work
 
-## Start of work
+| 時刻 |    To Do    |
+| ---- | ----------- |
+| 9:00 | 仕事 / 活動 |
+
 - [Todoist](https://todoist.com/app/inbox)で予定を確認
 - [Simplenote](https://app.simplenote.com/)に思いついたことをメモ
 - 紅茶を入れる
 
 ## Noon
-- 12時には、昼食を食べて、歯を磨く
-- 昼寝は、15時までに
-- [Kill Time](./kill-time.md)
+| 時刻  |    To Do     |
+| ----- | ------------ |
+| 12:00 | 昼食・歯磨き |
 
-## End of work
+- 昼寝は、15時までに
+
+## Second half of work
+
+| 時刻 |    To Do    |
+| ---- | ----------- |
+| 13:00 | 仕事 / 活動 |
+
 - 紅茶ポットを洗う
 - 最後に、予定を確認
 
 ## Night
+
+| 時刻  |         To Do          |
+| ----- | ---------------------- |
+| 18:00 | 夕飯・歯磨き           |
+| 19:00 | 帰宅 / 酒              |
+| 20:00 | 運動 (60分)            |
+| 21:00 | 風呂 (45分湯船)        |
+| 22:00 | 趣味                   |
+| 23:00 | **何がなんでも寝る**   |
+|       | 睡眠 (7時間)           |
+| 6:00  | **何がなんでも起きる** |
+
 - 18時を過ぎたら風呂を沸かす
-- 夕食を食べて、歯を磨く
-- 食器を洗って、風呂に入る
-- 23時までに寝る
 - [Zaim](https://zaim.net/): 出納管理
 - [TradingView](https://jp.tradingview.com/chart/)
 - [投資](./investment.md)
@@ -73,7 +94,7 @@
 - [TikTok](https://www.tiktok.com/)
 - [Reddit](https://www.reddit.com/)
 - [Discord](https://discord.com/app)
-  - [Disboard [作業]](https://disboard.org/ja/servers/tag/%E4%BD%9C%E6%A5%AD)[[研究]](https://disboard.org/ja/servers/tag/%E7%A0%94%E7%A9%B6)
+  - [Disboard](https://disboard.org/ja) [[作業]](https://disboard.org/ja/servers/tag/%E4%BD%9C%E6%A5%AD)[[雑談]](https://disboard.org/ja/servers/tag/%E9%9B%91%E8%AB%87)[[研究]](https://disboard.org/ja/servers/tag/%E7%A0%94%E7%A9%B6)
   - [ディスコード速報](https://dissoku.net/search/tag/%E4%BD%9C%E6%A5%AD?page=1)
 - [YouTube](https://www.youtube.com/)
   - [ライブラリ](https://www.youtube.com/feed/library)
@@ -147,3 +168,14 @@
 
 ### 風景
 - [壮麗！ヨーロッパの25のお城](https://www.buzzfeed.com/jp/bfjapan/29catsles)
+
+
+### 朝配信
+
+  |     | 時刻  |                                 配信者                                 |
+  | --- | ----- | ---------------------------------------------------------------------- |
+  | 月  | 7:00  | [大神ミオ](https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg)   |
+  | 火  | 7:00  | [博衣こより](https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw) |
+  | 木  | 7:00  | [夜空メル](https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw)   |
+  | 金  | 7:00  | [博衣こより](https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw) |
+  | 土  | 10:00 | [大空スバル](https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA) |
