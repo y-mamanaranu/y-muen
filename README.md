@@ -19,10 +19,6 @@
 - [GreenSnap](https://greensnap.jp/my/y_muen): 観葉植物のアカウント
 - [植物関連の地図: 東京](https://www.google.com/maps/d/viewer?mid=1SoIozXh3XpcJSM49HWpzLDzFvf3P8R-1)
 
-## Kill Time [🔗](doc/kill-time.md)
-- [Instagram](https://www.instagram.com/yoiduki.muen/): イラストとか
-- [SUZURI](https://suzuri.jp/y-muen): T-Shirt
-
 ## Favorites
 * 料理
 * 工作
@@ -36,12 +32,14 @@
 ## Blog [🔗](https://y-muen.hatenablog.com/)
 
 ## Links
+- [読書メーター](https://bookmeter.com/users/1345930)
 - [Gravatar](https://ja.gravatar.com/ymuen): アイコン
 - [GitHub](https://github.com/y-muen): 投資となろう
   - [gist](https://gist.github.com/y-muen): Tampermonkeyのスクリプト達 
-- [Twitter](https://twitter.com/y_muen): グラブルと少しの政治
+- [Twitter](https://twitter.com/y_muen): グラブルと少しの政治・投資
 - [Greasy Fork](https://greasyfork.org/ja/users/899801-y-muen): Tampermonkeyのスクリプト達 
 - [マシュマロ](https://marshmallow-qa.com/y_muen): ネタのゴミ箱
 - [note](https://note.com/y_muen)
 - [YouTube](https://www.youtube.com/channel/UCSohJtXW0vq-a8-mndnqR6w): グラブルのガチャの記録
-
+- [Instagram](https://www.instagram.com/yoiduki.muen/): イラストとか
+- [SUZURI](https://suzuri.jp/y-muen): T-Shirt

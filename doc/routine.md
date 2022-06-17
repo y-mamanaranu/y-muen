@@ -1,15 +1,11 @@
 # Routine
 ## Overall
 - 7時間睡眠
-- インプット
-  - ニュース・本を読む
-- アウトプット
-  - スライド・ドキュメント・投稿にまとめる 
-- 投資
-  - 月10万円、年利5%で35年積み立てれば1億1300万円
+- インプット: ニュース・本を読む
+- アウトプット: スライド・ドキュメント・投稿にまとめる
+- 投資: 月10万円、年利5%で35年積み立てれば1億1300万円
 - 室温を21～25度、湿度を夏は40～55％、冬は45～60％程度
-- 自分で15分考えて、それでも分からないければ他人に聞く
-  - [15 min rule](https://twitter.com/math_rachel/status/764931533383749632)
+- [15 min rule](https://twitter.com/math_rachel/status/764931533383749632): 自分で15分考えて、それでも分からないければ他人に聞く
 
 ## Morning
 
@@ -116,6 +112,7 @@
 - [Kindle](https://read.amazon.co.jp/kindle-library)
 - [小説家になろう](https://syosetu.com/favnovelmain/list/)
 - [ホロジュール](https://schedule.hololive.tv/)
+- [読書メーター](https://bookmeter.com/home)
 
 ### 植物・インテリア
 - [GreenSnap](https://greensnap.jp/timeline)
