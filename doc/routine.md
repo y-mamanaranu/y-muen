@@ -1,14 +1,15 @@
 # Routine
 ## Overall
 - 7時間睡眠
-- 実験結果、調査結果は、スライドにまとめる
-- 定期的に報告書や投稿にまとめる
-- 本を読む
+- インプット
+  - ニュース・本を読む
+- アウトプット
+  - スライド・ドキュメント・投稿にまとめる 
 - 投資
-  * 月10万円、年利5%で35年積み立てれば1億1300万円
+  - 月10万円、年利5%で35年積み立てれば1億1300万円
 - 室温を21～25度、湿度を夏は40～55％、冬は45～60％程度
 - 自分で15分考えて、それでも分からないければ他人に聞く
-  * [15 min rule](https://twitter.com/math_rachel/status/764931533383749632)
+  - [15 min rule](https://twitter.com/math_rachel/status/764931533383749632)
 
 ## Morning
 
@@ -23,9 +24,14 @@
 | 7:00  | 朝食・歯磨き・着替える                                |
 | 8:00  | 出宅: ニュース / 掃除                                 |
 
-- [ニュース・天気](./news.md)
+- [ニュース](./news.md)
   - [tenki.jp](https://tenki.jp/)
   - [頭痛ーる](https://zutool.jp/)
+  - [Google Scholar](https://scholar.google.com/scholar?sciupd=1&authuser=0)
+  - [ResearchGate](https://www.researchgate.net/)
+  - [Bloomberg](https://www.bloomberg.co.jp/)
+  - [Reuters](https://jp.reuters.com/)
+  - [日本経済新聞](https://www.nikkei.com/)
 
 ## First half of work
 
@@ -69,8 +75,13 @@
 
 - 18時を過ぎたら風呂を沸かす
 - [Zaim](https://zaim.net/): 出納管理
-- [TradingView](https://jp.tradingview.com/chart/)
 - [投資](./investment.md)
+  - [TradingView](https://jp.tradingview.com/chart/)
+  - [高橋ダン](https://www.youtube.com/c/DanTakahashiPostPrime/videos)
+  - [バフェット太郎](https://www.youtube.com/c/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E5%A4%AA%E9%83%8E%E3%81%AE%E6%8A%95%E8%B3%87%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/videos)
+  - [エミン・ユルマズ](https://www.youtube.com/channel/UClDM5GP-nYn5gBvDryZDW9w/videos)
+  - [栫井駿介](https://www.youtube.com/c/Tsubame1045/videos)
+  - [後藤達也](https://www.youtube.com/c/gototatsuya/videos)
 
 ## Monthly
 - [Brave Rewards クリエイター](https://publishers.basicattentiontoken.org/publishers/home?locale=ja)

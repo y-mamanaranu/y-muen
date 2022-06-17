@@ -22,6 +22,7 @@
 * [エミン・ユルマズ [YouTube]](https://www.youtube.com/channel/UClDM5GP-nYn5gBvDryZDW9w/videos)
 * [栫井駿介 [YouTube]](https://www.youtube.com/c/Tsubame1045/videos)
 * [Joe Takayama [YouTube]](https://www.youtube.com/c/JoeTakayama/videos)[[Crypto]](https://www.youtube.com/channel/UChHDspjk1RSMWXe36OyV5rg/videos)
+* [後藤達也](https://www.youtube.com/c/gototatsuya/videos)
 * [Ray Dalio [YouTube]](https://www.youtube.com/c/principlesbyraydalio/videos)
 * [楽天証券 [YouTube]](https://www.youtube.com/user/RakutenSec/videos)
 * [マネックス証券 [YouTube]](https://www.youtube.com/c/Monexondemand/videos)
