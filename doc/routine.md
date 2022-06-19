@@ -73,6 +73,9 @@
 - [運動](https://www.youtube.com/playlist?list=PLaMEq1-vsIARvdaJv2M-OfQEk-lx4q1Ux)
 - [ボイトレ](https://www.youtube.com/playlist?list=PLaMEq1-vsIAQgzDHmw1MIBokB1tDxANwE)
 - [Zaim](https://zaim.net/): 出納管理
+- 趣味
+  - [Kindle](https://read.amazon.co.jp/kindle-library)
+  - [読書メーター](https://bookmeter.com/home)
 - [投資](./investment.md)
   - [TradingView](https://jp.tradingview.com/chart/)
   - [高橋ダン](https://www.youtube.com/c/DanTakahashiPostPrime/videos)
