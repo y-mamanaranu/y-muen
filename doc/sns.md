@@ -26,3 +26,24 @@
   | 木  | 7:00  | [夜空メル](https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw)   |
   | 金  | 7:00  | [博衣こより](https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw) |
   | 土  | 10:00 | [大空スバル](https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA) |
+
+## プログラミング
+- [スタック・オーバーフロー](https://ja.stackoverflow.com/)
+- [teratail](https://teratail.com/)
+- [Qiita](https://qiita.com/question-waiting-answers)
+- [ココナラ](https://coconala.com/requests/categories/11?categoryId=11&page=1)
+- [クラウドワークス](https://crowdworks.jp/public/jobs/group/development)
+- [ランサーズ](https://www.lancers.jp/work/search/system?open=1&ref=header_menu&show_description=1&sort=client&work_rank%5B%5D=0&work_rank%5B%5D=2&work_rank%5B%5D=3)
+
+## タイピング
+- [かなタイピング](https://www.e-typing.ne.jp/member/cht.asp?tp=1)
+- [英語タイピング](https://www.e-typing.ne.jp/member/cht.asp?tp=2)
+
+## グラブル [🔗](http://game.granbluefantasy.jp/#mypage)
+- [Granblue Search](https://gbs.eriri.net/)
+- [グラブル編成アプリ](http://share.gbf.life/)
+- [GameWith](https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/)
+- [神ゲー攻略](https://kamigame.jp/%E3%82%B0%E3%83%A9%E3%83%96%E3%83%AB/index.html)
+- [グラブル騎空団募集掲示板](https://gbf-bbs.com/)
+- [天井貯金計算機](http://2shin.net/tokidoki/grbl/tenjo.html)
+- [キャラ所有率チェッカー](https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/54257#sdtZsIMtXsKtnsItnTsIuCsI2BsZ2DsRN2SsKIQtnZsZRQtXsJ2QtfsQIb2f2RsmthsJtRFelsCCtPP2ctnse2hsZtbRsItWbsMtijsZJuBtahskCtCsOjatmUIsktWsn2itCuCtWjskuAtGHJmmaGYshtnl)
