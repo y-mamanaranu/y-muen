@@ -64,12 +64,14 @@
 | 19:00 | 帰宅 / 酒              |
 | 20:00 | 運動 (60分)            |
 | 21:00 | 風呂 (45分湯船)        |
-| 22:00 | 趣味                   |
+| 22:00 | 趣味・投資             |
 | 23:00 | **何がなんでも寝る**   |
 |       | 睡眠 (7時間)           |
 | 6:00  | **何がなんでも起きる** |
 
 - 18時を過ぎたら風呂を沸かす
+- [運動](https://www.youtube.com/playlist?list=PLaMEq1-vsIARvdaJv2M-OfQEk-lx4q1Ux)
+- [ボイトレ](https://www.youtube.com/playlist?list=PLaMEq1-vsIAQgzDHmw1MIBokB1tDxANwE)
 - [Zaim](https://zaim.net/): 出納管理
 - [投資](./investment.md)
   - [TradingView](https://jp.tradingview.com/chart/)
@@ -114,17 +116,6 @@
 - [ホロジュール](https://schedule.hololive.tv/)
 - [読書メーター](https://bookmeter.com/home)
 
-### 植物・インテリア
-- [GreenSnap](https://greensnap.jp/timeline)
-- [RoomClip](https://roomclip.jp/)
-- [Pinterest](https://www.pinterest.jp/)
-- [Unsplash](https://unsplash.com/)
-- [陶器市・クラフトフェア42選](https://uchill.jp/blog/pottery-fes/toukiichi-craftsfair/)
-- [Daisuke Miyazaki](https://www.youtube.com/c/DaisukeMiyazakiTV/videos)
-- [クリエイティブの裏側](https://www.youtube.com/channel/UC5QPjyH-ASgmOLEbuBhMgEg/videos)
-- [BarKORU sasanta](https://www.youtube.com/channel/UCsXYnNB2EVTEFBO-ObqGrrQ/videos)
-- [心が落ち着く東京都内の美しい公園12選](https://rtrp.jp/articles/4509/)
-
 ### プログラミング
 - [スタック・オーバーフロー](https://ja.stackoverflow.com/)
 - [teratail](https://teratail.com/)
@@ -132,15 +123,6 @@
 - [ココナラ](https://coconala.com/requests/categories/11?categoryId=11&page=1)
 - [クラウドワークス](https://crowdworks.jp/public/jobs/group/development)
 - [ランサーズ](https://www.lancers.jp/work/search/system?open=1&ref=header_menu&show_description=1&sort=client&work_rank%5B%5D=0&work_rank%5B%5D=2&work_rank%5B%5D=3)
-
-### 料理
-- [ささみキッチン](https://www.youtube.com/channel/UCmqmviEVZbMSgYB7cQWTU9Q/videos)
-- [KAZUAKI EGUCHI](https://www.youtube.com/channel/UCluB47fcS-RnvNjPHrXYS5Q/videos)
-- [ファビオ飯](https://www.youtube.com/channel/UC9poG8aQWgYvJykq9PXsvoA/videos)
-- [くまの限界食堂](https://www.youtube.com/channel/UCw2lRr9C-KTpoNlYK-oH93g/videos)
-- [kurashiru [Web]](https://www.kurashiru.com/) [[YouTube]](https://www.youtube.com/c/kurashiru/videos)
-- [LIFE\.net](https://www.youtube.com/channel/UC1oDYmq2regnCn60SWrWbbg/videos)
-- [きょう何たべよ / Marco Macri](https://www.youtube.com/channel/UCQnsCgHXnXR4y8fecFCJQcw/videos)
 
 ### グラブル [🔗](http://game.granbluefantasy.jp/#mypage)
 - [Granblue Search](https://gbs.eriri.net/)
@@ -151,33 +133,12 @@
 - [天井貯金計算機](http://2shin.net/tokidoki/grbl/tenjo.html)
 - [キャラ所有率チェッカー](https://xn--bck3aza1a2if6kra4ee0hf.gamewith.jp/article/show/54257#sdtZsIMtXsKtnsItnTsIuCsI2BsZ2DsRN2SsKIQtnZsZRQtXsJ2QtfsQIb2f2RsmthsJtRFelsCCtPP2ctnse2hsZtbRsItWbsMtijsZJuBtahskCtCsOjatmUIsktWsn2itCuCtWjskuAtGHJmmaGYshtnl)
 
-### プレゼン
-- [Googleスライドで資料を作成する手順](https://daisukekmr.hatenablog.com/entry/2017/02/14/224005#2-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3%E4%BD%9C%E6%88%90)
-- [プレゼン時のメモと募集した質問をスライドに表示する方法](https://dxs.co.jp/blog/google-slide-presentation/)
-- [Googleスライドのデザインテンプレート配布サイト20選](https://goworkship.com/magazine/googleslide-template-matome/)
-- [デザインをはじめたい人に役立つ情報をまとめています。](https://umuco.jp/category/creative/design/)
-
-### 報告
-- [上司が“唸る”報告の仕方](https://www.insource.co.jp/businessbunsho/houkoku_shikata.html)
-- [ちゃんと伝わる「仕事ができる人」のメールの書き方](https://www.lifehacker.jp/article/208480how-to-write-email-for-people-who-can-work/)
-
-### 相談
-- [人の話を聞くと疲れちゃう人に朗報！ 精神科医お墨付きの“聴く技術”とは？](https://ddnavi.com/review/538982/a/)
-- [愚痴をこぼす人への賢い対処法](https://commu-training.isoroot.jp/blog/n-guchi-taisyo-0209/)
-
-### 生活改善
-- [悪い習慣にさようなら](https://www.nike.com/jp/a/how-to-break-bad-habits)
-- [ストレス食いを止める簡単な方法](https://www.nike.com/jp/a/what-is-emotional-eating)
-- [『プラダを着た悪魔』で分かるYouTubeのモーニングルーティンが履修科目である理由](https://www.youtube.com/watch?v=l3nwZ4uUasE)
-- [生産性を上げたければ「温度」と「湿度」に気を配れ！？　最適な作業環境を徹底的に考察してみた。](https://studyhacker.net/columns/best-temperature-efficiency)
-
 ### タイピング
 - [かなタイピング](https://www.e-typing.ne.jp/member/cht.asp?tp=1)
 - [英語タイピング](https://www.e-typing.ne.jp/member/cht.asp?tp=2)
 
 ### 風景
 - [壮麗！ヨーロッパの25のお城](https://www.buzzfeed.com/jp/bfjapan/29catsles)
-
 
 ### 朝配信
 

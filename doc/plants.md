@@ -1,4 +1,14 @@
-# Plants
+# Plants and Interior
+- [GreenSnap](https://greensnap.jp/timeline)
+- [RoomClip](https://roomclip.jp/)
+- [Pinterest](https://www.pinterest.jp/)
+- [Unsplash](https://unsplash.com/)
+- [陶器市・クラフトフェア42選](https://uchill.jp/blog/pottery-fes/toukiichi-craftsfair/)
+- [Daisuke Miyazaki](https://www.youtube.com/c/DaisukeMiyazakiTV/videos)
+- [クリエイティブの裏側](https://www.youtube.com/channel/UC5QPjyH-ASgmOLEbuBhMgEg/videos)
+- [BarKORU sasanta](https://www.youtube.com/channel/UCsXYnNB2EVTEFBO-ObqGrrQ/videos)
+- [心が落ち着く東京都内の美しい公園12選](https://rtrp.jp/articles/4509/)
+
 ##  植物を買ってる
 * [オザキフラワーパーク](https://ozaki-flowerpark.co.jp/): 色々ある実店舗
 	* [楽天市場店](https://www.rakuten.co.jp/ozaki-flowerpark/)
