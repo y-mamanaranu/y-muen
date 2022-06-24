@@ -28,18 +28,6 @@
   | 金  | 7:00  | [博衣こより](https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw) |
   | 土  | 10:00 | [大空スバル](https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA) |
 
-## プログラミング
-- [スタック・オーバーフロー](https://ja.stackoverflow.com/)
-- [teratail](https://teratail.com/)
-- [Qiita](https://qiita.com/question-waiting-answers)
-- [ココナラ](https://coconala.com/requests/categories/11?categoryId=11&page=1)
-- [クラウドワークス](https://crowdworks.jp/public/jobs/group/development)
-- [ランサーズ](https://www.lancers.jp/work/search/system?open=1&ref=header_menu&show_description=1&sort=client&work_rank%5B%5D=0&work_rank%5B%5D=2&work_rank%5B%5D=3)
-
-## タイピング
-- [かなタイピング](https://www.e-typing.ne.jp/member/cht.asp?tp=1)
-- [英語タイピング](https://www.e-typing.ne.jp/member/cht.asp?tp=2)
-
 ## グラブル [🔗](http://game.granbluefantasy.jp/#mypage)
 - [Granblue Search](https://gbs.eriri.net/)
 - [グラブル編成アプリ](http://share.gbf.life/)
