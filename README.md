@@ -39,7 +39,7 @@
 ## SNS [🔗](doc/sns.md)
 
 ## Favorites
-- DIT and Crafts
+- DIY and Crafts
   - [y-muen/himmeli](https://github.com/y-muen/himmeli): ヒンメリのワイヤークラフトを作るときの設計図を生成するライブラリ
 - Music
   - [Spotify](https://open.spotify.com/user/3vg7ib8viax9jtt3jhki731cs): プレイリストをシェアするのに便利
