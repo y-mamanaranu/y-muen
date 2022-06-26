@@ -9,3 +9,4 @@
 - [LIFE\.net](https://www.youtube.com/channel/UC1oDYmq2regnCn60SWrWbbg/videos)
 - [きょう何たべよ / Marco Macri](https://www.youtube.com/channel/UCQnsCgHXnXR4y8fecFCJQcw/videos)
 - [Martha Stewart](https://www.youtube.com/user/MarthaStewart)
+- [やまでら くみこ のレシピ](https://kumiko-jp.com/)
