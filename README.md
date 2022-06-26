@@ -44,6 +44,13 @@
     - [ヘビロテ](https://open.spotify.com/playlist/19GjpNq8oX2ttrQHtqHg0C?si=883fd400a62a493b): 作業用のプレイリスト
 - Readings
   - [読書メーター](https://bookmeter.com/users/1345930)
+- Anime
+  - GOSICK
+  - 幼女戦記
+  - 夏目友人帳
+  - SAO
+  - 結界師
+  - 魔法科高校の劣等生
 - 自転車
 - グラブル
   - [y-muen/remove-tos-tweet](https://github.com/y-muen/remove-tos-tweet): @tosツイートを定期的に削除する
