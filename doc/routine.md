@@ -1,11 +1,13 @@
 # Routine
 ## Overall
-- 7時間睡眠
+
+- [7時間睡眠](https://www.otsuka.co.jp/suimin/column02.html)
+- [Pomodoro technique](https://mynavi-job20s.jp/howto/pomodoro_technique.html): 25分作業+5分休憩を4回繰り返して、30分の休憩
+- [15 min rule](https://twitter.com/math_rachel/status/764931533383749632): 自分で15分考えて、それでも分からないければ他人に聞く
+- [室温を21～25度、湿度を夏は40～55％、冬は45～60％程度](https://studyhacker.net/columns/best-temperature-efficiency)
 - インプット: ニュース・本を読む
 - アウトプット: スライド・ドキュメント・投稿にまとめる
 - 投資: 月10万円、年利5%で35年積み立てれば1億1300万円
-- 室温を21～25度、湿度を夏は40～55％、冬は45～60％程度
-- [15 min rule](https://twitter.com/math_rachel/status/764931533383749632): 自分で15分考えて、それでも分からないければ他人に聞く
 
 ## Morning
 
@@ -85,6 +87,7 @@
   - [後藤達也](https://www.youtube.com/c/gototatsuya/videos)
 
 ## Monthly
+
 - [Brave Rewards クリエイター](https://publishers.basicattentiontoken.org/publishers/home?locale=ja)
 - [PostPrime クリエーター](https://postprime.com/dashboard)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/)
