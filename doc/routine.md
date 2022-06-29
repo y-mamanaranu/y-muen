@@ -75,6 +75,7 @@
 - [運動](https://www.youtube.com/playlist?list=PLaMEq1-vsIARvdaJv2M-OfQEk-lx4q1Ux)
   - [寝ながら－13kg](https://twitter.com/y_muen/status/1540722919008923650)
   - [１週間で腹を凹ます体幹力トレーニング](https://twitter.com/y_muen/status/1533827717145448448)
+  - [頭痛解消のストレッチ](https://twitter.com/y_muen/status/1542005221454360577)
 - [ボイトレ](https://www.youtube.com/playlist?list=PLaMEq1-vsIAQgzDHmw1MIBokB1tDxANwE)
 - [Zaim](https://zaim.net/): 出納管理
 - 趣味
