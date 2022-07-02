@@ -30,4 +30,9 @@
 - [15 min rule](https://twitter.com/math_rachel/status/764931533383749632): 自分で15分考えて、それでも分からないければ他人に聞く
 - [室温を21～25度、湿度を夏は40～55％、冬は45～60％程度](https://studyhacker.net/columns/best-temperature-efficiency)
 
+# トークデッキ
+会話が続かないときのあんちょこ。
 
+- [36の質問](https://gigazine.net/news/20170711-make-friends-scientific-method/)
+- [雑談ネタ](https://smartlog.jp/148435)
+- [雑談ネタ2](https://townwork.net/magazine/skill/51136/)
