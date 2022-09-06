@@ -67,22 +67,51 @@
 ## Night
 
 - 18時を過ぎたら風呂を沸かす
-- [運動](https://www.youtube.com/playlist?list=PLaMEq1-vsIARvdaJv2M-OfQEk-lx4q1Ux)
-  - [寝ながら－13kg](https://twitter.com/y_muen/status/1540722919008923650)
-  - [１週間で腹を凹ます体幹力トレーニング](https://twitter.com/y_muen/status/1533827717145448448)
-  - [頭痛解消のストレッチ](https://twitter.com/y_muen/status/1542005221454360577)
-- [ボイトレ](https://www.youtube.com/playlist?list=PLaMEq1-vsIAQgzDHmw1MIBokB1tDxANwE)
 - [Zaim](https://zaim.net/): 出納管理
-- 趣味
-  - [Kindle](https://read.amazon.co.jp/kindle-library)
-  - [読書メーター](https://bookmeter.com/home)
-- [投資](./investment.md)
-  - [TradingView](https://jp.tradingview.com/chart/)
-  - [高橋ダン](https://www.youtube.com/c/DanTakahashiPostPrime/videos)
-  - [バフェット太郎](https://www.youtube.com/c/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E5%A4%AA%E9%83%8E%E3%81%AE%E6%8A%95%E8%B3%87%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/videos)
-  - [エミン・ユルマズ](https://www.youtube.com/channel/UClDM5GP-nYn5gBvDryZDW9w/videos)
-  - [栫井駿介](https://www.youtube.com/c/Tsubame1045/videos)
-  - [後藤達也](https://www.youtube.com/c/gototatsuya/videos)
+
+## 趣味
+### 音楽: 邦楽、洋楽、クラシック、Jazz。
+- [Spotify](https://open.spotify.com/)
+
+### 本: 小説、歴史、芸術。
+
+- [読書メーター](https://bookmeter.com/home)
+- [ホンシェルジュ](https://honcierge.jp/)
+- [Kindle](https://read.amazon.co.jp/kindle-library)
+- [\#読書女子 OR \#読書男子 \- Twitter検索](https://twitter.com/search?q=%23%E8%AA%AD%E6%9B%B8%E5%A5%B3%E5%AD%90%20OR%20%23%E8%AA%AD%E6%9B%B8%E7%94%B7%E5%AD%90%20&src=typed_query&f=live)
+
+### 映画
+
+### 料理
+
+- [食べログ](https://tabelog.com/)
+
+### 運動: 自転車、筋トレ、ボイトレ。
+- [ストレッチ](https://www.youtube.com/playlist?list=PLaMEq1-vsIARvdaJv2M-OfQEk-lx4q1Ux)
+- [胸](https://www.youtube.com/playlist?list=PLaMEq1-vsIASVbxKutSThsOBklxr5t4Uw)
+- [肩](https://www.youtube.com/playlist?list=PLaMEq1-vsIARxVTKZlIh7UedUDJjmuquB)
+- [腕](https://www.youtube.com/playlist?list=PLaMEq1-vsIASQ4oT_p5s0cONIDrwaYRr_)
+- [腹](https://www.youtube.com/playlist?list=PLaMEq1-vsIAQtwQnnA3_hRjptqhaxrjKU)
+- [背中](https://www.youtube.com/playlist?list=PLaMEq1-vsIASozUJFXCMYQ168Lz7F-yNH)
+- [脚](https://www.youtube.com/playlist?list=PLaMEq1-vsIAR6cNzI1yaDu-GJBYOpM4_x)
+- [ボイトレ](https://www.youtube.com/playlist?list=PLaMEq1-vsIAQgzDHmw1MIBokB1tDxANwE)
+
+### 観葉植物
+
+### インテリア: 家具、雑貨、DIY、スマートホーム。
+
+### プログラミング: Python。
+
+- [Qiita](https://qiita.com/)
+
+### [投資](./investment.md)
+
+- [TradingView](https://jp.tradingview.com/chart/)
+- [高橋ダン](https://www.youtube.com/c/DanTakahashiPostPrime/videos)
+- [バフェット太郎](https://www.youtube.com/c/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E5%A4%AA%E9%83%8E%E3%81%AE%E6%8A%95%E8%B3%87%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/videos)
+- [エミン・ユルマズ](https://www.youtube.com/channel/UClDM5GP-nYn5gBvDryZDW9w/videos)
+- [栫井駿介](https://www.youtube.com/c/Tsubame1045/videos)
+- [後藤達也](https://www.youtube.com/c/gototatsuya/videos)
 
 ## Monthly
 
