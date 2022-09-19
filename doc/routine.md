@@ -70,22 +70,6 @@
 - [Zaim](https://zaim.net/): 出納管理
 
 ## 趣味
-### 音楽: 邦楽、洋楽、クラシック、Jazz。
-- [Spotify](https://open.spotify.com/)
-
-### 本: 小説、歴史、芸術。
-
-- [読書メーター](https://bookmeter.com/home)
-- [ホンシェルジュ](https://honcierge.jp/)
-- [Kindle](https://read.amazon.co.jp/kindle-library)
-- [\#読書女子 OR \#読書男子 \- Twitter検索](https://twitter.com/search?q=%23%E8%AA%AD%E6%9B%B8%E5%A5%B3%E5%AD%90%20OR%20%23%E8%AA%AD%E6%9B%B8%E7%94%B7%E5%AD%90%20&src=typed_query&f=live)
-
-### 映画
-
-### 料理
-
-- [食べログ](https://tabelog.com/)
-
 ### 運動: 自転車、筋トレ、ボイトレ。
 - [ストレッチ](https://www.youtube.com/playlist?list=PLaMEq1-vsIARvdaJv2M-OfQEk-lx4q1Ux)
 - [胸](https://www.youtube.com/playlist?list=PLaMEq1-vsIASVbxKutSThsOBklxr5t4Uw)
@@ -95,14 +79,6 @@
 - [背中](https://www.youtube.com/playlist?list=PLaMEq1-vsIASozUJFXCMYQ168Lz7F-yNH)
 - [脚](https://www.youtube.com/playlist?list=PLaMEq1-vsIAR6cNzI1yaDu-GJBYOpM4_x)
 - [ボイトレ](https://www.youtube.com/playlist?list=PLaMEq1-vsIAQgzDHmw1MIBokB1tDxANwE)
-
-### 観葉植物
-
-### インテリア: 家具、雑貨、DIY、スマートホーム。
-
-### プログラミング: Python。
-
-- [Qiita](https://qiita.com/)
 
 ### [投資](./investment.md)
 
