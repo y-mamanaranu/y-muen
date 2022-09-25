@@ -80,6 +80,15 @@
 - [脚](https://www.youtube.com/playlist?list=PLaMEq1-vsIAR6cNzI1yaDu-GJBYOpM4_x)
 - [ボイトレ](https://www.youtube.com/playlist?list=PLaMEq1-vsIAQgzDHmw1MIBokB1tDxANwE)
 
+#### 適正体重
+
+|      | BMI  | 体重  |
+| ---- | ---- | ----- |
+| 下限 | 18.5 | 62.63 |
+| 美容 | 20   | 67.71 |
+| 適正 | 22   | 74.48 |
+| 上限 | 25   | 84.64 |
+
 ### [投資](./investment.md)
 
 - [TradingView](https://jp.tradingview.com/chart/)
