@@ -8,51 +8,54 @@
 - インプット: ニュース・本を読む
 - アウトプット: スライド・ドキュメント・投稿にまとめる
 - 投資: 月10万円、年利5%で35年積み立てれば1億1300万円
+- 昼寝は、15時までに
 
-| 時刻  |        Weekday         | Weekend |
-| ----- | ---------------------- | ------- |
-| 22:00 | **何がなんでも寝る**   | ->      |
-|       | 睡眠                   | ->      |
-| 5:00  | **何がなんでも起きる** | ->      |
-|       | 白湯                   | ->      |
-|       | コーヒー               | ->      |
-|       | 顔を洗う               | ->      |
-|       | 窓を開ける             | ->      |
-|       | 天気                   | ->      |
-|       | ストレッチ             | ->      |
-|       | 植物                   | ->      |
-| 6:00  | 朝食                   | ->      |
-|       | 歯磨き                 | ->      |
-|       | 着替える               | ->      |
-| 7:00  | 出宅                   | 掃除    |
-| 7:30  | 出勤                   |         |
-|       | Pomodoro × 4           | ->      |
-| 9: 30 | Long Break             | ->      |
-| 10:00 | Pomodoro × 4           | ->      |
-| 12:00 | 昼食                   | ->      |
-|       | 歯磨き                 | ->      |
-| 13:00 | Pomodoro × 4           | 自転車  |
-| 15:00 | Long Break             | 風呂    |
-| 15:30 | Pomodoro × 4           | ->      |
-| 17:30 | Long Break             | ->      |
-| 18:00 | Pomodoro × 2           | 映画    |
-| 19:00 | 退勤                   |         |
-| 19:30 | 帰宅                   |         |
-|       | 夕飯                   | ->      |
-|       | 歯磨き                 | ->      |
-| 20:30 | 運動                   | ->      |
-| 21:30 | 風呂                   | ->      |
-|       | 洗濯機予約             | ->      |
-|       | 読書                   | ->      |
-| 22:00 | **何がなんでも寝る**   | ->      |
-|       | 睡眠                   | ->      |
-| 5:00  | **何がなんでも起きる** | ->      |
+| 時刻  |          Weekday          | Weekend |
+| ----- | ------------------------- | ------- |
+| 22:00 | **何がなんでも寝る**      | ->      |
+|       | 睡眠                      | ->      |
+| 5:00  | **何がなんでも起きる**    | ->      |
+|       | 白湯                      | ->      |
+|       | コーヒー                  | ->      |
+|       | 顔を洗う                  | ->      |
+|       | 窓を開ける                | ->      |
+|       | 天気                      | ->      |
+|       | [ストレッチ](#ストレッチ) | ->      |
+|       | 植物                      | ->      |
+| 6:00  | 朝食                      | ->      |
+|       | [予定](#予定)             | ->      |
+|       | [ニュース](#ニュース)     | ->      |
+|       | 歯磨き                    | ->      |
+|       | 着替える                  | ->      |
+| 7:00  | 出宅                      | 掃除    |
+| 7:30  | 出勤                      |         |
+|       | Pomodoro × 4              | ->      |
+| 9: 30 | Long Break                | ->      |
+| 10:00 | Pomodoro × 4              | ->      |
+| 12:00 | 昼食                      | ->      |
+|       | 歯磨き                    | ->      |
+| 13:00 | Pomodoro × 4              | 自転車  |
+| 15:00 | Long Break                | 風呂    |
+| 15:30 | Pomodoro × 4              | ->      |
+| 17:30 | Long Break                | ->      |
+| 18:00 | Pomodoro × 2              | 映画    |
+| 19:00 | 退勤                      |         |
+| 19:30 | 帰宅                      |         |
+|       | 夕飯                      | ->      |
+|       | [出納帳](#出納帳)         | ->      |
+|       | 歯磨き                    | ->      |
+| 20:30 | [筋トレ](#筋トレ)         | ->      |
+| 21:30 | 風呂                      | ->      |
+|       | [体重](#体重)             | ->      |
+|       | 洗濯機予約                | ->      |
+|       | 読書                      | ->      |
+| 22:00 | **何がなんでも寝る**      | ->      |
+|       | 睡眠                      | ->      |
+| 5:00  | **何がなんでも起きる**    | ->      |
 
 Pomodoro: 25 min + 5 min
 
-## Morning
-
-- [ニュース](./news.md)
+## [ニュース](./news.md)
   - [tenki.jp](https://tenki.jp/)
   - [頭痛ーる](https://zutool.jp/)
   - [Google Scholar](https://scholar.google.com/scholar?sciupd=1&authuser=0)
@@ -61,38 +64,24 @@ Pomodoro: 25 min + 5 min
   - [Reuters](https://jp.reuters.com/)
   - [日本経済新聞](https://www.nikkei.com/)
 
-## First half of work
-
+## 予定
 - [Todoist](https://todoist.com/app/inbox)で予定を確認
 - [Simplenote](https://app.simplenote.com/)に思いついたことをメモ
-- 紅茶を入れる
 
-## Noon
-
-- 昼寝は、15時までに
-
-## Second half of work
-
-- 紅茶ポットを洗う
-- 最後に、予定を確認
-
-## Night
-
-- 18時を過ぎたら風呂を沸かす
-- [Zaim](https://zaim.net/): 出納管理
-
-## 趣味
-### 運動: 自転車、筋トレ、ボイトレ。
+## ストレッチ
 - [ストレッチ](https://www.youtube.com/playlist?list=PLaMEq1-vsIARvdaJv2M-OfQEk-lx4q1Ux)
+- [ボイトレ](https://www.youtube.com/playlist?list=PLaMEq1-vsIAQgzDHmw1MIBokB1tDxANwE)
+
+## 筋トレ
 - [胸](https://www.youtube.com/playlist?list=PLaMEq1-vsIASVbxKutSThsOBklxr5t4Uw)
 - [肩](https://www.youtube.com/playlist?list=PLaMEq1-vsIARxVTKZlIh7UedUDJjmuquB)
 - [腕](https://www.youtube.com/playlist?list=PLaMEq1-vsIASQ4oT_p5s0cONIDrwaYRr_)
 - [腹](https://www.youtube.com/playlist?list=PLaMEq1-vsIAQtwQnnA3_hRjptqhaxrjKU)
 - [背中](https://www.youtube.com/playlist?list=PLaMEq1-vsIASozUJFXCMYQ168Lz7F-yNH)
 - [脚](https://www.youtube.com/playlist?list=PLaMEq1-vsIAR6cNzI1yaDu-GJBYOpM4_x)
-- [ボイトレ](https://www.youtube.com/playlist?list=PLaMEq1-vsIAQgzDHmw1MIBokB1tDxANwE)
 
-#### 適正体重
+
+## 体重
 
 |      | BMI  | 体重  |
 | ---- | ---- | ----- |
@@ -101,14 +90,9 @@ Pomodoro: 25 min + 5 min
 | 適正 | 22   | 74.48 |
 | 上限 | 25   | 84.64 |
 
-### [投資](./investment.md)
+## 出納帳
 
-- [TradingView](https://jp.tradingview.com/chart/)
-- [高橋ダン](https://www.youtube.com/c/DanTakahashiPostPrime/videos)
-- [バフェット太郎](https://www.youtube.com/c/%E3%83%90%E3%83%95%E3%82%A7%E3%83%83%E3%83%88%E5%A4%AA%E9%83%8E%E3%81%AE%E6%8A%95%E8%B3%87%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/videos)
-- [エミン・ユルマズ](https://www.youtube.com/channel/UClDM5GP-nYn5gBvDryZDW9w/videos)
-- [栫井駿介](https://www.youtube.com/c/Tsubame1045/videos)
-- [後藤達也](https://www.youtube.com/c/gototatsuya/videos)
+- [Zaim](https://zaim.net/): 出納管理
 
 ## Monthly
 
