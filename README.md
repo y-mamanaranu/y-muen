@@ -34,8 +34,6 @@
 - [Gravatar](https://ja.gravatar.com/ymuen): アイコン
 - [SUZURI](https://suzuri.jp/y-muen): T-Shirt
 
-## Communication and Mental Health [🔗](doc/communication.md)
-
 ## SNS [🔗](doc/sns.md)
 
 ## Favorites
