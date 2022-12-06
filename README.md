@@ -6,7 +6,13 @@
 
 ## Routine [🔗](doc/routine.md)
 
-## Investment [🔗](doc/investment.md)
+## News
+- [Yahoo\! \- 掲載元検索](https://greasyfork.org/ja/scripts/443045-yahoo-%E6%8E%B2%E8%BC%89%E5%85%83%E6%A4%9C%E7%B4%A2): Yahoo!ニュースで記事の掲載元でのページを検索する
+- [Yahoo\! \- Yahoo\!検索削除](https://greasyfork.org/ja/scripts/443512-yahoo-yahoo-%E6%A4%9C%E7%B4%A2%E5%89%8A%E9%99%A4): Yahoo!ニュースでYahoo検索のポップアップを削除する。
+
+### Investment
+- [PostPrime](https://postprime.com/y_muen)
+- [TradingView](https://jp.tradingview.com/u/y-muen): 投資のチャート周り
 - [GitHub](https://github.com/y-muen): 投資となろう
   - [gist](https://gist.github.com/y-muen): Tampermonkeyのスクリプト達 
   - [Greasy Fork](https://greasyfork.org/ja/users/899801-y-muen): Tampermonkeyのスクリプト達 
@@ -15,11 +21,7 @@
 - [y\-muen/compare\-securities\-firm](https://github.com/y-muen/compare-securities-firm): 証券会社の取り扱い商品を比較する
   - [海外ETF](https://y-muen.github.io/compare-securities-firm/doc/foreign-etf.html): 海外ETFの取り扱いを表に列挙
 
-## News
-- [Yahoo\! \- 掲載元検索](https://greasyfork.org/ja/scripts/443045-yahoo-%E6%8E%B2%E8%BC%89%E5%85%83%E6%A4%9C%E7%B4%A2): Yahoo!ニュースで記事の掲載元でのページを検索する
-- [Yahoo\! \- Yahoo\!検索削除](https://greasyfork.org/ja/scripts/443512-yahoo-yahoo-%E6%A4%9C%E7%B4%A2%E5%89%8A%E9%99%A4): Yahoo!ニュースでYahoo検索のポップアップを削除する。
-
-## Politics [🔗](doc/politics.md)
+### Politics
 - [Twitter](https://twitter.com/y_muen): 政治・投資と少しのグラブル
 
 ## Plants and Interior, Crafts
@@ -29,12 +31,11 @@
 
 ## Cooking
 - [Instagram](https://www.instagram.com/yoiduki.muen/): 料理とイラスト
+- [Cookpad](https://cookpad.com/kitchen/52862336)
 
 ## Drawings
 - [Gravatar](https://ja.gravatar.com/ymuen): アイコン
 - [SUZURI](https://suzuri.jp/y-muen): T-Shirt
-
-## SNS [🔗](doc/sns.md)
 
 ## Favorites
 - Music
