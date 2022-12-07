@@ -1,4 +1,9 @@
 # Yoiduki
+- [Gravatar](https://ja.gravatar.com/ymuen): アイコン
+- [note](https://note.com/y_muen): 多分何もない
+- [マシュマロ](https://marshmallow-qa.com/y_muen): 返信は期待しないでください
+
+## Favorites
 * Music
   - [Spotify](https://open.spotify.com/user/3vg7ib8viax9jtt3jhki731cs): プレイリストをシェアするのに便利
 * Books
@@ -7,7 +12,6 @@
   - [Filmarks](https://filmarks.com/users/y_muen)
 * Arts
   - Drawings
-    - [Gravatar](https://ja.gravatar.com/ymuen): アイコン
     - [SUZURI](https://suzuri.jp/y-muen): T-Shirt
 * Interior and Crafts
 * Cooking
@@ -20,8 +24,6 @@
 * News
   * Politics
     - [Twitter](https://twitter.com/y_muen): 政治・投資と少しの
-    - [note](https://note.com/y_muen): 多分何もない
-    - [マシュマロ](https://marshmallow-qa.com/y_muen): 返信は期待しないでください
   * Investment
     - [PostPrime](https://postprime.com/y_muen)
     - [TradingView](https://jp.tradingview.com/u/y-muen): 投資のチャート周りグラブル
