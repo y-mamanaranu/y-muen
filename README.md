@@ -19,7 +19,9 @@
   - [Cookpad](https://cookpad.com/kitchen/52862336)
 * Plants
   - [GreenSnap](https://greensnap.jp/my/y_muen): 観葉植物のアカウント
-  - [植物関連の地図: 東京](https://www.google.com/maps/d/viewer?mid=1SoIozXh3XpcJSM49HWpzLDzFvf3P8R-1)
+  - 地図
+    - [東京](https://www.google.com/maps/d/viewer?mid=1SoIozXh3XpcJSM49HWpzLDzFvf3P8R-1)
+    - [仙台](https://www.google.com/maps/d/viewer?mid=1iBwiNBdMpaNlm0HPMT9tC4-Lx0_UQQc)
 * Science
 * News
   * Politics
