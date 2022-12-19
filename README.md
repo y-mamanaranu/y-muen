@@ -6,6 +6,7 @@
 ## Favorites
 - [Wiki](https://github.com/y-muen/earlybirdbath/wiki/Culture)
 
+
 * Music
   - [Spotify](https://open.spotify.com/user/3vg7ib8viax9jtt3jhki731cs): プレイリストをシェアするのに便利
 * Books
